@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html>
+<!-- Golden Sun World V.3 Date de création: 28/08/2003 created & edited by Garyash ; First publication : 13/04/2002 -->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("https://v3.goldensun-world.com/art/soundtrack","20230128095309","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1674899589");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>Golden Sun World ..-~ Version 3.3 ~-..</title>
+  <link rel="stylesheet" media="all" href="/web/20230128095309cs_/https://v3.goldensun-world.com/assets/application-b5df44e7736e7fc5b8688592b43a712ce480e5ffe632fc3093d876b8f02ddd9c.css" data-turbolinks-track="false"/>
+  <meta name="action-cable-url" content="/cable"/>
+  <script src="/web/20230128095309js_/https://v3.goldensun-world.com/assets/application-791e5a7150e921340fac85033c8caa29323c065608a22b9bf29775ee1ec5fa84.js" data-turbolinks-track="false"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/apple-touch-icon-76x76-b08d771cc3c29394d48482b67f3c7b17ad1b082f18277794ca855f92a7577789.png" sizes="76x76"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/apple-touch-icon-120x120-b8388565c05e18025187358128d3c92e8033d81841ee16dc2490db466fa25bc5.png" sizes="120x120"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/apple-touch-icon-152x152-141cea530ef8f3b7bdc02d22f8d55b9953909a7be29eff284ab3f4ef05b01e53.png" sizes="152x152"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/apple-touch-icon-167x167-cfc8f4e7f48c10a55face3c900c3f0963283faca42f79d9c2e76be5ef1147c0e.png" sizes="167x167"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/apple-touch-icon-180x180-6c748fa3ccf3f74defda4c30422f15360ece7162bc769ec37ee71b8b3bc7aa13.png" sizes="180x180"/>
+
+  <link rel="icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/favicon-16x16-24e0188d47ece238eb8b31c0d9ea819d6e1a780ee658ab5cb323bfe3d5c12c91.png" sizes="16x16"/>
+  <link rel="icon" type="image/png" href="/web/20230128095309im_/https://v3.goldensun-world.com/assets/favicon-32x32-b33719563e7539845d0a320804de3d82cb7c4db5180263ffc53c213ef630d614.png" sizes="32x32"/>
+
+  <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="3TQsYUN+wDtmrvuanK/7Z7AapacxoNyWHkwAal4s7YEZo8WrZIqIg8YLAyHTAjJtPBWAriy53SbMuKzNGC92zw=="/>
+</head>
+<body>
+<a name="top" id="top"></a>
+<table width="760" border="0" cellpadding="0" cellspacing="0" id="main">
+  <tr>
+    <td colspan="3"><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/top-3c6933a10204be69479c4ee25a488467f19160ca2937098c4afff8140a48c886.jpg" width="760" height="130" border="0" usemap="#home"></td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topleft_00-74724d290c511e8a4c7903e4536968321e3771b452cddcfb2b70f82e2a638149.jpg" width="130" height="41" border="0"></td>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/middle_bar-0108a3e0ddff931ad18767e67ee01cda1ca8cfd138cbd7f40c540477dd0cbf5e.gif" width="500" height="41" border="0" usemap="#menu_center"></td>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topright_00-f59e4ae6d9bbf483bb290079a11f9a516a9c4f4484a2743e58c8db894368d515.jpg" width="130" height="41" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_left-ef763732f30efb6f935c4e7b4bd9ce611276d1378acd8d2d19450368a7b332ac.jpg" valign="top"><table border="0" cellpadding="0" cellspacing="0" summary="goldensun3" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topleft_05-5b749c2f232825811105f8fdbf7609d20e75d944a1ae1a978f6ff05469b6d64b.gif" width="130" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo" style="line-height: 24px;"><b>»</b></span> <a href="http://web.archive.org/web/20230128095309/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_Obscure_Aurore" class="menu disabled" target="_blank"><b><u>Voir le Wiki</u></b></a><br><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs3_personnages" class="menu disabled">Personnages</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="goldensun2" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topleft_02-9e3cf31c94dc0770520631dee33860c51012e6c510ecfc12bc43d7b860593e96.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo" style="line-height: 24px;"><b>»</b></span> <a href="http://web.archive.org/web/20230128095309/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_l%27%C3%82ge_Perdu" class="menu disabled" target="_blank"><b><u>Voir le Wiki</u></b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_info" class="menu">Test / Infos Jeu</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_histoire" class="menu">Histoire</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_personnages" class="menu">Personnage</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_soluce" class="menu"><b>Soluce</b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_quetedesanimaux" class="menu"><b>Quête des animaux </b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_liste_maitres_elem" class="menu"><b>Maîtres Elém.</b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/guide_tactique" class="menu"><b>Guide tactique</b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_psynergie" class="menu">Psynergie</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_cheatcode" class="menu">Astuces</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_gameshark" class="menu">Game Shark / AR</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_invocation" class="menu">Invocations</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_djinn_list" class="menu">Djinn</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_classes" class="menu">Classes</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_items_classes" class="menu">Item Classes</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_shop" class="menu">Shop</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_item" class="menu">Objets</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_fontaine" class="menu">Objets fontaine</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_armes" class="menu">Armes</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_armures" class="menu">Armures</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_reliques" class="menu">Reliques</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_forgeron" class="menu">Le Forgeron</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_marais_taopo" class="menu">Marais de Taopo</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_meilleur_equipement" class="menu">Meilleur Equipement</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_carte" class="menu">Carte du Monde</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_boss" class="menu">Boss</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_codeacces" class="menu">Code de Sauvegarde</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_cinematique" class="menu">Cinématiques</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_faq" class="menu">FAQ</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" summary="goldensun" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topleft_01-674bb222d913d7440197eeca9be18802372651ad78078422343aed5a0b7b3504.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+          <span class="raquo" style="line-height: 24px;"><b>»</b></span> <a href="http://web.archive.org/web/20230128095309/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_le_Sceau_Bris%C3%A9" class="menu disabled" target="_blank"><b><u>Voir le Wiki</u></b></a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_histoire" class="menu">Histoire</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_info" class="menu">Info Jeu</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_perso" class="menu">Personnages</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_soluce" target="_blank" class="menu"><b>Soluce</b></a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_ileauxpirates" class="menu"><b>&Icirc;le aux pirates</b></a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/files/vlad" class="menu" target="_blank">Master Files</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_psynergie" class="menu">Psynergie</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_cheatcode" class="menu">Astuces</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_gameshark" class="menu">Game Shark / AR</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_invocation" class="menu">Invocations</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_djinn_tuto" class="menu">Djinn</a>
+          <br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_classes" class="menu">Classes</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_shop" class="menu">Shop</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_item" class="menu">Objets</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_armes" class="menu">Armes
+          </a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_armures" class="menu">Armures</a>
+          <br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_reliques" class="menu">Reliques (armes)</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_reliques2" class="menu">Reliques (armures)</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_reliques2#anneaux" class="menu">Reliques (anneaux)</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_meilleur_equipement" class="menu">Meilleur Equipmnt</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_carte" class="menu">Carte du Monde</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_boss" class="menu">Boss</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_codeacces" class="menu">Code Sauvegarde</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_boxart" class="menu">Box Art</a><br>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" summary="myuluchimedia" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topleft_03-a5498542bc8038ec00e5d537659b9ab96f3c1bbf7e959c081f4aa186c0efd8b3.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128095309/http://udanworld.free.fr/GSE/wtf.php" class="menu">Golden Sun Editor</a><br>
+            <!-- <img src="/img/icone/uploaded2.gif" width="29" height="11" border="0" alt="UpLoaDeD !!"> -->
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/art/wallpaper" class="menu">Wallpaper</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/art/artwork" class="menu">Artworks</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_decors" class="menu">Backgrounds GS1</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_decors" class="menu">Backgrounds GS2</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/art/msn" class="menu">Icones MSN/AIM</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/art/soundtrack" class="menu">Soundtrack</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/art/video" class="menu">Vidéo</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs1_save" class="menu">Sauvegardes GS1</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/gs2_save" class="menu">Sauvegardes GS2</a><br>
+            <span class="raquo"><b>»</b></span> <a class="menu">Trucages par :</a>
+            <div align="right"><a href="/web/20230128095309/https://v3.goldensun-world.com/art/trucages" class="menu">Cristali</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095309/https://v3.goldensun-world.com/art/trucages2" class="menu">Darthange</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095309/https://v3.goldensun-world.com/art/trucages3" class="menu">Crush40</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095309/https://v3.goldensun-world.com/art/trucages4" class="menu">Yarma</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095309/https://v3.goldensun-world.com/art/trucages5" class="menu">Skywalker</a>&nbsp;&nbsp;</div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="saito" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topleft_04-6ff66b27a7136bb50047008ddb92236a7279fee884fdbb6555af2bad032723ef.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo"><b>»</b></span> <a href="art_fanart.php" class="menu disabled">Fan Art</a><br/>
+            <span class="raquo"><b>»</b></span> <a href="art_fanfic.php" class="menu disabled">Fan Fic</a><br/>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/dialbox" class="menu" target="_blank">Dialbox</a>
+            <br>
+            <span class="raquo"><b>»</b></span> <a class="menu disabled" href="#">Chan</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095309/https://v3.goldensun-world.com/site/guestbook" class="menu disabled">Livre d'Or</a><br>
+            <span class="raquo"><b>»</b></span> <a href="site_awards.php" class="menu disabled">Awards</a><br>
+            <span class="raquo"><b>»</b></span> <a href="ekip.php" class="menu disabled">Les Webmasters</a><br>
+            <span class="raquo"><b>»</b></span> <a href="ekip_modo.php" class="menu disabled">Les Modérateurs</a><br>
+            <span class="raquo"><b>»</b></span> <a href="ekip_remerciement.php" class="menu disabled">Remerciements</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table></td>
+    <td valign="top" bgcolor="#FFFFFF">
+      <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="15">
+        <tr>
+          <td class="yield">
+<center>
+    <img src="/web/20230128095309im_/https://v3.goldensun-world.com/img/title/soundtrack.gif" width="242" height="42" border="0">
+    <br><br>
+    <b>Près de 100 Thèmes de fonds à télécharger !!!</b>
+    <br><br>
+    Oyez mesdames et messieurs, voici la liste des Soundtracks du jeu que l'on peut entendre dans Golden Sun : l'Âge Perdu
+    (voir astuces).<br>
+    Rappelons qu'il est illégal de télécharger des mp3. Je mets cependant à disposition
+    ces musiques car on ne peut les trouver dans le commerce (français en tout cas).
+    <br><br>
+    Chaque musique a été enregistrée et encodée par mes soins.
+    <br><br><br>
+<body onload="window.open(\'/art/soundtrack?dl=\', \'_blank\')">';
+
+<style type="text/css">
+tr.sound {font-family: Verdana; font-size: 8pt;}
+</style>
+    <!-- Début Body -->
+<table cellspacing="1" cellpadding="2" width="470" bgcolor="#000000" border="0">
+  <tr bgcolor="#3580BE" class="sound">
+    <td width="5%"><b><font color="#ffffff">#</font></b></td>
+    <td width="30%"><b><font color="#ffffff">Thème</font></b></td>
+    <td width="40%"><b><font color="#ffffff">Débloquer le thème</font></b></td>
+    <td width="20%"><b><font color="#ffffff">Durée - Taille</font></b></td>
+  <td width="4%"><b><font color="#ffffff">DL</font></b></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">0</td>
+    <td>Battle Lobby</td>
+    <td>"Combat" dans le menu principal</td>
+    <td align="center">0'52'' - 410 Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">1</td>
+    <td>Opening / Crédits</td>
+    <td>Automatique</td>
+    <td align="center">2'26'' - 1147Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">2</td>
+    <td>Menu principal</td>
+    <td>Automatique</td>
+    <td align="center">1'30'' - 1410Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">3</td>
+    <td>Phare de Vénus / Mercure</td>
+    <td>Aller à l'extérieur du phare de Vénus</td>
+    <td align="center">1'29'' - 1408Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">4</td>
+    <td>Jeu  du Plus-ou-Moins</td>
+    <td>Contigo, jeu de dés dans une des tentes</td>
+    <td align="center">1'09'' - 1082Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">5</td>
+    <td>Alhafra</td>
+    <td>Alhafra</td>
+    <td align="center">0'49'' - 782Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">6</td>
+    <td>Temple de Kandor</td>
+    <td>Temple de Kandor ou Champa</td>
+    <td align="center">0'55'' - 864Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">7</td>
+    <td>Daila</td>
+    <td>Daila</td>
+    <td align="center">1'18'' - 1234Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">8</td>
+    <td>Thème de la Jungle</td>
+    <td>Archipel d'Apojii ou Île du temps</td>
+    <td align="center">0'41'' - 644Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">9</td>
+    <td>Izumo en fête !</td>
+    <td>Izumo après avoir vaincu le Serpent</td>
+    <td align="center">0'49'' - 779Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">10</td>
+    <td>Les Ruines d'Izumo</td>
+    <td>Izumo la première fois</td>
+    <td align="center">1'13'' - 1143Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">11</td>
+    <td>Défaite de Drakozor</td>
+    <td>Après avoir battu le Drakozor</td>
+    <td align="center">-</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">12</td>
+    <td>Temple de Kandor II</td>
+    <td>Caverne du Temple de Kandor</td>
+    <td align="center">0'29'' - 462Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">13</td>
+    <td>Les Tribus de Gondowan</td>
+    <td>Naribwe, Monts Kibombo ou Kibombo</td>
+    <td align="center">0'41'' - 656Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">14</td>
+    <td>At the Ceremony</td>
+    <td>Kibombo durant la cérémonie / With the fortune tellers</td>
+    <td align="center">0'29'' - 456Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">15</td>
+    <td>Lemuria</td>
+    <td>Lemuria</td>
+    <td align="center">1'18'' - 1224</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">16</td>
+    <td>Madra</td>
+    <td>Madra</td>
+    <td align="center">1'06'' - 1036Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">17</td>
+    <td>Sur ces petites îles...</td>
+    <td>Îlot S-E d'Angara, Îlot de glace, Îlot est de Toundra</td>
+    <td align="center">1'17'' - 1218Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">18</td>
+    <td>Lycanthropes !</td>
+    <td>Garoh</td>
+    <td align="center">1'09'' - 1094Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">19</td>
+    <td>Yallam</td>
+    <td>Yallam</td>
+    <td align="center">1'21'' - 1270Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">20</td>
+    <td>La chanson de Yepp I</td>
+    <td>Parler aux enfants à l'Est de Yallam</td>
+    <td align="center">0'41'' - 652Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">21</td>
+    <td>La chanson de Yepp II</td>
+    <td>Avoir une sauvegarde vierge (terminée)</td>
+    <td align="center">-</td><td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">22</td>
+    <td>Rochair</td>
+    <td>Rochair</td>
+    <td align="center">1'40'' - 1564Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">23</td>
+    <td>Rocheau</td>
+    <td>Rocheau</td>
+    <td align="center">1'18'' - 1228Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">24</td>
+    <td>Dans les cavernes</td>
+    <td>Catacombes de Madra / Caverne de l'Île du temps</td>
+    <td align="center">1'09'' - 1086Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">25</td>
+    <td>Cave Theme</td>
+    <td>Mausolée, le sanctuaire du dieu des mers.</td>
+    <td align="center">0'52'' - 822Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">26</td>
+    <td>Mont Gaia</td>
+    <td>Mont Gaia</td>
+    <td align="center">1'38'' - 1544Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">27</td>
+    <td>Statue de Gomboma</td>
+    <td>Statue de Gomboma</td>
+    <td align="center">1'10'' - 1100Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">28</td>
+    <td>Phare de Jupiter</td>
+    <td>Cérémonie de Kibombo / Phare de Jupiter</td>
+    <td align="center">1'15'' - 1174Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">29</td>
+    <td>Mont Magma</td>
+    <td>Mont Magma</td>
+    <td align="center">1'14'' - 1158Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">30</td>
+    <td>Phare de Mars</td>
+    <td>Phare de Mars</td>
+    <td align="center">1'26'' - 1348Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">31</td>
+    <td>Tour de Toundra</td>
+    <td>Tour de Toundra</td>
+    <td align="center">1'18'' - 1220Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">32</td>
+    <td>Marais de Taopo</td>
+    <td>Marais de Taopo</td>
+    <td align="center">1'07'' - 1060Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">33</td>
+    <td>Ruines d'Ankohl</td>
+    <td>Ruines d'Ankohl</td>
+    <td align="center">1'08'' - 1072Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">34</td>
+    <td>Thème d'Agatio, Karst &amp; Alex</td>
+    <td>Rencontre d'Agatio, Karstine et Alex à Madra, Champa ou au Phare de Jupiter</td>
+    <td align="center">1'25'' - 1338Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">35</td>
+    <td>Djinn Echo</td>
+    <td>Explication des Djinn</td>
+    <td align="center">1'29'' - 1406Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">36</td>
+    <td>Le diable rôde</td>
+    <td>Rencontrer Karstine à Madra</td>
+    <td align="center">1'20'' - 1262Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">37</td>
+    <td>Shaman Village / Loho</td>
+    <td>Aller à Shaman ou Loho</td>
+    <td align="center">0'52'' - 816Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">38</td>
+    <td>Les origines de Cylia / Le dernier phare</td>
+    <td>Utiliser les ailes la première fois pour sortir d'Attéka</td>
+    <td align="center">1'25'' - 1340Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">39</td>
+    <td>Danger droit devant !</td>
+    <td>Avant de combattre le Drakozor</td>
+    <td align="center">0'52'' - 824Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">40</td>
+    <td>Opening Theme Golden Sun : The Lost Age</td>
+    <td>Automatique</td>
+    <td align="center">1'06'' - 1040Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">41</td>
+    <td>Worldmap Theme Ocean</td>
+    <td>Naviguer sur mer</td>
+    <td align="center">1'08'' - 1072Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">42</td>
+    <td>Golden Sun : The Lost Age Worldmap Theme I</td>
+    <td>Worldmap avant l'arrivée de Vlad</td>
+    <td align="center">1'26'' - 1346Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">43</td>
+    <td>Golden Sun : The Lost Age Worldmap Theme II</td>
+    <td>Quand Vlad se joint à vous, vous entendez ce thème à la place du I</td>
+    <td align="center">1'11'' - 1120Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">44</td>
+    <td>Golden sun : The Lost Age Ending Credits</td>
+    <td>Terminer le jeu</td>
+    <td align="center">-</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">45</td>
+    <td>Le rocher tombe dans les mines d'Altin</td>
+    <td>Jouer au jeu du "plus ou moins" à Contigo</td>
+    <td align="center">1'01'' - 956Ko</td><td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">46</td>
+    <td>The Colosso / Route du Courage</td>
+    <td>Route du Courage</td>
+    <td align="center">0'48'' - 754Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">47</td>
+    <td>Battle Theme I Golden Sun : The Lost Age</td>
+    <td>Combattre avec Lina sans Pavel ni Vlad</td>
+    <td align="center">0'52'' - 826Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">48</td>
+    <td>Battle Theme II</td>
+    <td>Combattre</td>
+    <td align="center">0'59'' - 926Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">49</td>
+    <td>Briggs Battle Theme</td>
+    <td>Combattre Briggs</td>
+    <td align="center">1'12'' - 1128Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">50</td>
+    <td>Boss Battle Theme</td>
+    <td>Après avoir battu les Grands Singes</td>
+    <td align="center">0'58'' - 920Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">51</td>
+    <td>Seabattle</td>
+    <td>Combattre en mer</td>
+    <td align="center">0'58'' - 908Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">52</td>
+    <td>Agatio &amp; Karstine Battle Theme</td>
+    <td>Au sommet du phare de Jupiter</td>
+    <td align="center">1'05'' - 1028Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">53</td>
+    <td>Boss Battle Theme II</td>
+    <td>Avant de combattre le Serpent (Izumo)</td>
+    <td align="center">1'00'' - 942</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">54</td>
+    <td>Final Battle</td>
+    <td>Combat contre le Drakozor au phare de Mars</td>
+    <td align="center">1'36'' - 1508Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">55</td>
+    <td>Victory</td>
+    <td>Gagner un combat (ce qui ne devrait pas être dur)</td>
+    <td align="center">0'21'' - 330Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">56</td>
+    <td>Perdre un combat</td>
+    <td>Perdez un combat</td>
+    <td align="center">0'37'' - 588Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">57</td>
+    <td>Rencontre entre Ivan et maître Hamo</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'42'' - 1600Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">58</td>
+    <td>Salamandar &amp; Phoenixia Theme</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'09'' - 1080Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">59</td>
+    <td>Theme de Prox</td>
+    <td>Prox</td>
+    <td align="center">1'36'' - 1516Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">60</td>
+    <td>Destruction du Temple de Sol</td>
+    <td>-</td>
+    <td align="center">1'02'' - 972Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">61</td>
+    <td>"Trois ans plus tard..."</td>
+    <td>Terminer le jeu</td>
+    <td align="center">0'20'' - 316Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">62</td>
+    <td>Mer du Temps</td>
+    <td>Entrer dans la Mer du Temps</td>
+    <td align="center">1'11'' - 1126Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">63</td>
+    <td>Golden Sun Ending Credits</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'18'' - 1230Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">64</td>
+    <td>Password</td>
+    <td>Entrer le password</td>
+    <td align="center">1'23'' - 1306Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">65</td>
+    <td>Sentiment de défaite au phare de Vénus</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'42'' - 1602Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">66</td>
+    <td>Prologue</td>
+    <td>Début du jeu</td>
+    <td align="center">1'24'' - 1314Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">67</td>
+    <td>Le Mont Alpha et Val ont disparu !</td>
+    <td>Après les crédits de fin</td>
+    <td align="center">1'51'' - 1742Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">68</td>
+    <td>"To be continued..."</td>
+    <td>Avant le Tsunami</td>
+    <td align="center">0'12'' - 192Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">69</td>
+    <td>Val / Vault / Altin II</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'41'' - 1580Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">70</td>
+    <td>Village paisible</td>
+    <td>Aller dans la colonie de Gondowan</td>
+    <td align="center">1'25'' - 1332Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">71</td>
+    <td>La malédiction de Bilibin &amp; Kolima</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'36'' - 1512Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">72</td>
+    <td>Palace theme</td>
+    <td>Palais d'Hydros (Lémuria)</td>
+    <td align="center">1'13'' - 1152Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">73</td>
+    <td>Tret / Pic Altin inondé</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'42'' - 1606Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">74</td>
+    <td>Temple Fushin, Temple Lama, Xian</td>
+    <td>Contigo, quand maître Hamo arrive</td>
+    <td align="center">1'27'' - 1364Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">75</td>
+    <td>Kalay / Quai de Kalay / Quai de Tolbi</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'23''- 1304Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">76</td>
+    <td>Epreuves du Colysée</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'23'' - 1308Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">77</td>
+    <td>Dans les tunnels / Encouragements au Colysée</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'08'' - 1066Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">78</td>
+    <td>Tolbi festival</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'07'' - 1050Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">79</td>
+    <td>Dans le sanctuaire antique</td>
+    <td>Sanctuaire d'Anémos</td>
+    <td align="center">1'18'' - 1230Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">80</td>
+    <td>Chant Mystique</td>
+    <td>Contigo</td>
+    <td align="center">1'40'' - 1568Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">81</td>
+    <td>Salle des étoiles élémentaires / Sommets des phares</td>
+    <td>Chambre des Djinn d'Anémos</td>
+    <td align="center">1'44'' - 1634Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">82</td>
+    <td>Tempête de Val / Pic Altin</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'49'' - 1708Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">83</td>
+    <td>Golden Sun Caves Theme</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'41'' - 1590Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">84</td>
+    <td>Dans les déserts</td>
+    <td>Désert de Yampi</td>
+    <td align="center">1'39'' - 1550Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">85</td>
+    <td>Imil &amp; Prox</td>
+    <td>Quand la tempête de neige est sur Prox</td>
+    <td align="center">1'24'' - 1320Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">86</td>
+    <td>Dans les plateaux</td>
+    <td>Plateaux du Dehkan ou Île aux trésors</td>
+    <td align="center">1'27'' - 1366Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">87</td>
+    <td>Cave d'Altmiller, Tunnel en Ruine</td>
+    <td>-</td>
+    <td align="center">1'41'' - 1586Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">88</td>
+    <td>Lord Babi</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'04'' - 1016Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">89</td>
+    <td>Arrimage à Tolbi</td>
+    <td>Terminer le jeu</td>
+    <td align="center">1'13'' - 1148Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">90</td>
+    <td>Golden Sun Worldmap</td>
+    <td>Idejima</td>
+    <td align="center">1'37'' - 1518Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">91</td>
+    <td>Phare de Vénus II</td>
+    <td>Phare de Vénus</td>
+    <td align="center">1'31'' - 1432Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">92</td>
+    <td>Golden Sun Battle Theme</td>
+    <td>Combattre sans Pavel</td>
+    <td align="center">1'22'' - 1284Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">93</td>
+    <td>Salamandar &amp; Phoenixia Battle Theme au Phare de Mercure</td>
+    <td>Combattre le Star Magician</td>
+    <td align="center">1'39'' -1556Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">94</td>
+    <td>Golden Sun Boss Battle Theme</td>
+    <td>Combattre Valukar</td>
+    <td align="center">1'08'' - 1078Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">95</td>
+    <td>Salamandar &amp; Phoenixia Battle Theme au Phare de Vénus</td>
+    <td>Combattre Sentinelle</td>
+    <td align="center">1'40'' - 1566Ko</td>
+  <td></td></tr>
+  <tr bgcolor="#C0CEFF" class="sound">
+    <td align="center">96</td>
+    <td>La plus dure des batailles</td>
+    <td>Combattre Dullahan</td>
+    <td align="center">1'42'' - 1610Ko</td>
+  <td></td></tr>
+</table>
+
+<br><center><a href="http://web.archive.org/web/20230128095309/http://goldensunw.free.fr/sound/Soundtracks.zip">Ici</a> pour télécharger toutes les musiques en une seule fois.</center><br>
+
+<br>
+Merci à <a href="http://web.archive.org/web/20230128095309/http://www.geocities.com/gskraden/" target="_blank">gs-kraden</a> pour la liste.<br>
+Les indications pour débloquer les thèmes n'ont pas été vérifiées.<br>
+Traduction arbitraire de Garyash.
+    </center>
+<br><br><br>
+<b>Cinder</b> de <a href="http://web.archive.org/web/20230128095309/http://www.goldensunrealm.com/" target="_blank">GoldenSun Realm</a> a aussi créé sa propre version (probablement meilleure que la mienne) disponible <a href="http://web.archive.org/web/20230128095309/http://goldenchaos.net/golden-sun-soundtrack" target="_blank">ici (en)</a>.
+<br><br><br>
+Et <b>Coaltergeist</b> a fait un remaster haute qualité disponible <a href="http://web.archive.org/web/20230128095309/https://www.reddit.com/r/GoldenSun/comments/4cdtqb/golden_sun_soundtrack_remaster_project_its/" target="_blank">ici (en)</a>
+
+<!--<br><br>
+<b>Vous devez être membre pour pouvoir télécharger les Soundtracks disponibles sur
+ce site.
+<br><br>
+Pour vous inscrire, cliquez <a href="/users/sign_up">ici</a>.</b>-->
+
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_right-d1d12e11c23b745c367aef7523322db66be3732272b8c7cf195f6fa1a1c9c9c2.jpg" valign="top" bgcolor="#1A4F84"><table border="0" cellpadding="0" cellspacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent id="birthday">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topright_07-7e229d39a6ea89a59832b876d307d454777d7d87f8c4a36544ecb8e4156314e0.gif" width="130" height="48" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+          <td class="menu" align="center">
+            <table width="114" height="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td>
+                  <center>
+                    Aucun.
+                  </center>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent id="jukebox">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topright_06-b2b63b0bdb70a2ca1bc45268d34df3da8ebe2df02ecf82e8dfc6cf335bc3d273.gif" width="130" height="48" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+          <td class="menu" align="center">
+            <table width="114" height="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><center>
+                  <a href="#" onclick="window.open('/site_jukeflash.php','jukebox','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=301,height=151');return(false)" class="disabled"><font color="#000000">Jukebox (v. Flash)</font></a>
+                  <br>
+                  <a href="#" onclick="window.open('/site_juke.php','jukebox','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=302,height=153');return(false)" class="disabled"><font color="#000000">Jukebox (v. PHP)</font></a></center>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent id="member-zone">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topright_05-7b1a5a6ec98f7f1d76cf891336560f92b59911f6ed6b0d7f3b7ca9dcbd9827ef.gif" width="130" height="30" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="95%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+              <form action="/web/20230128095309/https://v3.goldensun-world.com/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"/><input type="hidden" name="authenticity_token" value="UGjIQzLxTULw0jrbw9URI2ikZWDNdaUt27mRS4kgAnn1t1rUKI44ckgM2Qfn7mkgsRrg12TWkXNl1nruo540sg=="/>
+<center>
+  <b>
+    <label for="user_login">
+      <font size="1">Pseudo :</font><br>
+</label>    <input class="input" size="10" autocomplete="username" type="text" name="user[login]" id="user_login"/>
+    <br>
+    <label for="user_password">
+      <font size="1">Mot de Passe :</font><br>
+</label>    <input class="input" size="10" autocomplete="current-password" type="password" name="user[password]" id="user_password"/>
+    <br>
+    <input value="1" type="hidden" name="user[remember_me]" id="user_remember_me"/>
+    <input type="submit" name="commit" value="Se connecter" class="input_submit" data-disable-with="Se connecter"/>
+  </b>
+</center>
+</form><div align="right"><font size="1"><a href="/web/20230128095309/https://v3.goldensun-world.com/users/password/new">Oubli de mot de passe ?</a></font></div>
+
+
+            <br>
+            <center>
+              <a href="/web/20230128095309/https://v3.goldensun-world.com/list_membre.php" class="disabled"><font size="1">Liste des membres</font></a><br>
+              <a href="/web/20230128095309/https://v3.goldensun-world.com/list_membre_attente.php" class="disabled"><font size="1">Membres en attente</font></a>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<!-- <iframe width="128" height="200" src="/dialbox_iframe" frameborder="0" style="border: inset #000000 1px;" id="dialbox-iframe"></iframe><br> -->
+<img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botmiddle-d582f2e9bfe9ce6f3336088cecfc73d7725dd320ec513dfcb14b67066907931d.gif" width="130" height="10" border="0" alt=""><br>
+<table cellpadding="2" cellspacing="0" width="130" height="120" bgcolor="#99CCFF" style="border :1px solid;" id="dialbox-info">
+  <tr>
+    <td align="center">
+      Ouvrir la Dialbox en :<br><a href="#" onclick="window.open('/dialbox?size=1','dial_box','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=500,height=450');return(false)">Petite taille (640x480)</a><br><a href="#" onclick="window.open('/dialbox?size=2','dial_box2','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=500,height=570');return(false)">Moyenne taille (800x600)</a><br><a href="#" onclick="window.open('/dialbox?size=3','dial_box3','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=500,height=738');return(false)">Grande taille (1024x768)</a><br>
+    <br>
+      Connecté(s) : <b></b>
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="affiliés" width="130" data-turbolinks-permanent id="affiliate">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/topright_01-d733dc4f21afcf5674215d7b015b30a2e62da08b7f96e43a86078ce0cbb23a3e.gif" width="130" height="50" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+          <td class="menu">
+            &nbsp;&nbsp;<font face="Verdana"><span class="raquo"><b>»</b></span> <a href="affiliation.php" class="menu disabled">Affiliation</a></font>
+            <br><br>
+            <center>
+            <font size="1">
+              <a href="http://web.archive.org/web/20230128095309/http://www.aw-experience.com/" target="_blank">AW Experience</a><br>
+            </font>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="http://web.archive.org/web/20230128095309im_/https://v3.goldensun-world.com/assets/layer/bottom-53c5921ab113530539c843e774c03899353cc7eddf040b9e7d33fd0b4f41cde3.gif" width="760" height="16" border="0" usemap="#bottom">
+<br><br></td>
+  </tr>
+</table>
+<br>
+<map name="home">
+  <area shape="rect" coords="8,6,294,125" href="/web/20230128095309/https://v3.goldensun-world.com/home" alt="Page d'Accueil">
+  <area shape="rect" coords="274,71,484,125" href="/web/20230128095309/https://v3.goldensun-world.com/home" alt="Page d'Accueil">
+</map>
+<map name="bottom">
+  <area shape="rect" coords="12,2,28,14" href="#top">
+  <area shape="rect" coords="732,2,748,14" href="#top">
+</map>
+<map name="menu_center">
+  <area shape="rect" coords="52,7,123,35" href="http://web.archive.org/web/20230128095309/https://discord.gg/aSXCTEt" alt="Discord" target="_blank">
+  <area shape="rect" coords="168,8,262,38" href="http://web.archive.org/web/20230128095309/http://goldensunw.free.fr/btf_project/forum.php" alt="Forum" target="_blank">
+  <area shape="rect" coords="310,6,446,38" href="/web/20230128095309/https://v3.goldensun-world.com/site/guestbook" alt="Livre d'Or">
+</map>
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:53:09 Jan 28, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:56:04 Mar 22, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.061
+  exclusion.robots.policy: 0.054
+  cdx.remote: 0.086
+  esindex: 0.008
+  LoadShardBlock: 175.211 (6)
+  PetaboxLoader3.datanode: 129.527 (7)
+  load_resource: 235.877
+  PetaboxLoader3.resolve: 175.898
+-->
