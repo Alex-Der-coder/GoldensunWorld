@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<html>
+<!-- Golden Sun World V.3 Date de création: 28/08/2003 created & edited by Garyash ; First publication : 13/04/2002 -->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("https://v3.goldensun-world.com/gs1_ileauxpirates","20230128095345","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1674899625");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>Golden Sun World ..-~ Version 3.3 ~-..</title>
+  <link rel="stylesheet" media="all" href="/web/20230128095345cs_/https://v3.goldensun-world.com/assets/application-b5df44e7736e7fc5b8688592b43a712ce480e5ffe632fc3093d876b8f02ddd9c.css" data-turbolinks-track="false"/>
+  <meta name="action-cable-url" content="/cable"/>
+  <script src="/web/20230128095345js_/https://v3.goldensun-world.com/assets/application-791e5a7150e921340fac85033c8caa29323c065608a22b9bf29775ee1ec5fa84.js" data-turbolinks-track="false"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/apple-touch-icon-76x76-b08d771cc3c29394d48482b67f3c7b17ad1b082f18277794ca855f92a7577789.png" sizes="76x76"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/apple-touch-icon-120x120-b8388565c05e18025187358128d3c92e8033d81841ee16dc2490db466fa25bc5.png" sizes="120x120"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/apple-touch-icon-152x152-141cea530ef8f3b7bdc02d22f8d55b9953909a7be29eff284ab3f4ef05b01e53.png" sizes="152x152"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/apple-touch-icon-167x167-cfc8f4e7f48c10a55face3c900c3f0963283faca42f79d9c2e76be5ef1147c0e.png" sizes="167x167"/>
+  <link rel="apple-touch-icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/apple-touch-icon-180x180-6c748fa3ccf3f74defda4c30422f15360ece7162bc769ec37ee71b8b3bc7aa13.png" sizes="180x180"/>
+
+  <link rel="icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/favicon-16x16-24e0188d47ece238eb8b31c0d9ea819d6e1a780ee658ab5cb323bfe3d5c12c91.png" sizes="16x16"/>
+  <link rel="icon" type="image/png" href="/web/20230128095345im_/https://v3.goldensun-world.com/assets/favicon-32x32-b33719563e7539845d0a320804de3d82cb7c4db5180263ffc53c213ef630d614.png" sizes="32x32"/>
+
+  <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="7AmP9JKObFLMT4IQNfmaXCYBWKx7drj7W1UtXQiQ1H+1CcKSp0UobkBwxPH8kX/6hk6Kw01Ty0BtRCIdXtIeVQ=="/>
+</head>
+<body>
+<a name="top" id="top"></a>
+<table width="760" border="0" cellpadding="0" cellspacing="0" id="main">
+  <tr>
+    <td colspan="3"><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/top-3c6933a10204be69479c4ee25a488467f19160ca2937098c4afff8140a48c886.jpg" width="760" height="130" border="0" usemap="#home"></td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topleft_00-74724d290c511e8a4c7903e4536968321e3771b452cddcfb2b70f82e2a638149.jpg" width="130" height="41" border="0"></td>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/middle_bar-0108a3e0ddff931ad18767e67ee01cda1ca8cfd138cbd7f40c540477dd0cbf5e.gif" width="500" height="41" border="0" usemap="#menu_center"></td>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topright_00-f59e4ae6d9bbf483bb290079a11f9a516a9c4f4484a2743e58c8db894368d515.jpg" width="130" height="41" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_left-ef763732f30efb6f935c4e7b4bd9ce611276d1378acd8d2d19450368a7b332ac.jpg" valign="top"><table border="0" cellpadding="0" cellspacing="0" summary="goldensun3" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topleft_05-5b749c2f232825811105f8fdbf7609d20e75d944a1ae1a978f6ff05469b6d64b.gif" width="130" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo" style="line-height: 24px;"><b>»</b></span> <a href="http://web.archive.org/web/20230128095345/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_Obscure_Aurore" class="menu disabled" target="_blank"><b><u>Voir le Wiki</u></b></a><br><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs3_personnages" class="menu disabled">Personnages</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="goldensun2" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topleft_02-9e3cf31c94dc0770520631dee33860c51012e6c510ecfc12bc43d7b860593e96.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo" style="line-height: 24px;"><b>»</b></span> <a href="http://web.archive.org/web/20230128095345/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_l%27%C3%82ge_Perdu" class="menu disabled" target="_blank"><b><u>Voir le Wiki</u></b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_info" class="menu">Test / Infos Jeu</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_histoire" class="menu">Histoire</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_personnages" class="menu">Personnage</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_soluce" class="menu"><b>Soluce</b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_quetedesanimaux" class="menu"><b>Quête des animaux </b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_liste_maitres_elem" class="menu"><b>Maîtres Elém.</b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/guide_tactique" class="menu"><b>Guide tactique</b></a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_psynergie" class="menu">Psynergie</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_cheatcode" class="menu">Astuces</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_gameshark" class="menu">Game Shark / AR</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_invocation" class="menu">Invocations</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_djinn_list" class="menu">Djinn</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_classes" class="menu">Classes</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_items_classes" class="menu">Item Classes</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_shop" class="menu">Shop</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_item" class="menu">Objets</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_fontaine" class="menu">Objets fontaine</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_armes" class="menu">Armes</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_armures" class="menu">Armures</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_reliques" class="menu">Reliques</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_forgeron" class="menu">Le Forgeron</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_marais_taopo" class="menu">Marais de Taopo</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_meilleur_equipement" class="menu">Meilleur Equipement</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_carte" class="menu">Carte du Monde</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_boss" class="menu">Boss</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_codeacces" class="menu">Code de Sauvegarde</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_cinematique" class="menu">Cinématiques</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_faq" class="menu">FAQ</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" summary="goldensun" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topleft_01-674bb222d913d7440197eeca9be18802372651ad78078422343aed5a0b7b3504.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+          <span class="raquo" style="line-height: 24px;"><b>»</b></span> <a href="http://web.archive.org/web/20230128095345/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_le_Sceau_Bris%C3%A9" class="menu disabled" target="_blank"><b><u>Voir le Wiki</u></b></a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_histoire" class="menu">Histoire</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_info" class="menu">Info Jeu</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_perso" class="menu">Personnages</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_soluce" target="_blank" class="menu"><b>Soluce</b></a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_ileauxpirates" class="menu"><b>&Icirc;le aux pirates</b></a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/files/vlad" class="menu" target="_blank">Master Files</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_psynergie" class="menu">Psynergie</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_cheatcode" class="menu">Astuces</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_gameshark" class="menu">Game Shark / AR</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_invocation" class="menu">Invocations</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_djinn_tuto" class="menu">Djinn</a>
+          <br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_classes" class="menu">Classes</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_shop" class="menu">Shop</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_item" class="menu">Objets</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_armes" class="menu">Armes
+          </a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_armures" class="menu">Armures</a>
+          <br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_reliques" class="menu">Reliques (armes)</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_reliques2" class="menu">Reliques (armures)</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_reliques2#anneaux" class="menu">Reliques (anneaux)</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_meilleur_equipement" class="menu">Meilleur Equipmnt</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_carte" class="menu">Carte du Monde</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_boss" class="menu">Boss</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_codeacces" class="menu">Code Sauvegarde</a><br>
+          <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_boxart" class="menu">Box Art</a><br>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" summary="myuluchimedia" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topleft_03-a5498542bc8038ec00e5d537659b9ab96f3c1bbf7e959c081f4aa186c0efd8b3.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128095345/http://udanworld.free.fr/GSE/wtf.php" class="menu">Golden Sun Editor</a><br>
+            <!-- <img src="/img/icone/uploaded2.gif" width="29" height="11" border="0" alt="UpLoaDeD !!"> -->
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/art/wallpaper" class="menu">Wallpaper</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/art/artwork" class="menu">Artworks</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_decors" class="menu">Backgrounds GS1</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_decors" class="menu">Backgrounds GS2</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/art/msn" class="menu">Icones MSN/AIM</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/art/soundtrack" class="menu">Soundtrack</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/art/video" class="menu">Vidéo</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs1_save" class="menu">Sauvegardes GS1</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/gs2_save" class="menu">Sauvegardes GS2</a><br>
+            <span class="raquo"><b>»</b></span> <a class="menu">Trucages par :</a>
+            <div align="right"><a href="/web/20230128095345/https://v3.goldensun-world.com/art/trucages" class="menu">Cristali</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095345/https://v3.goldensun-world.com/art/trucages2" class="menu">Darthange</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095345/https://v3.goldensun-world.com/art/trucages3" class="menu">Crush40</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095345/https://v3.goldensun-world.com/art/trucages4" class="menu">Yarma</a>&nbsp;&nbsp;</div>
+            <div align="right"><a href="/web/20230128095345/https://v3.goldensun-world.com/art/trucages5" class="menu">Skywalker</a>&nbsp;&nbsp;</div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="saito" width="130">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topleft_04-6ff66b27a7136bb50047008ddb92236a7279fee884fdbb6555af2bad032723ef.gif" width="130" height="32" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_left2-f7ac5c659e9060a7482b98ac133e05629d39f053b2c6ab8656adb300528fb831.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+            <span class="raquo"><b>»</b></span> <a href="art_fanart.php" class="menu disabled">Fan Art</a><br/>
+            <span class="raquo"><b>»</b></span> <a href="art_fanfic.php" class="menu disabled">Fan Fic</a><br/>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/dialbox" class="menu" target="_blank">Dialbox</a>
+            <br>
+            <span class="raquo"><b>»</b></span> <a class="menu disabled" href="#">Chan</a><br>
+            <span class="raquo"><b>»</b></span> <a href="/web/20230128095345/https://v3.goldensun-world.com/site/guestbook" class="menu disabled">Livre d'Or</a><br>
+            <span class="raquo"><b>»</b></span> <a href="site_awards.php" class="menu disabled">Awards</a><br>
+            <span class="raquo"><b>»</b></span> <a href="ekip.php" class="menu disabled">Les Webmasters</a><br>
+            <span class="raquo"><b>»</b></span> <a href="ekip_modo.php" class="menu disabled">Les Modérateurs</a><br>
+            <span class="raquo"><b>»</b></span> <a href="ekip_remerciement.php" class="menu disabled">Remerciements</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botleft-c4a0bf219c6f34e16587411e57d1599ff479ff43d12c8fa61cd332ad413e57b4.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table></td>
+    <td valign="top" bgcolor="#FFFFFF">
+      <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="15">
+        <tr>
+          <td class="yield">
+<center><img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/title/soluce.gif" width="123" height="39" border="0"></center>
+
+<script type="text/javascript">
+function ChangeUrl(formulaire) {
+  if (formulaire.ListeUrl.selectedIndex != 0) {
+    location.href = formulaire.ListeUrl.options[formulaire.ListeUrl.selectedIndex].value;
+  }
+}
+</script>
+
+<br><br>
+<center><img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/title/ileauxpirates.gif" width="308" height="44" border="0"></center>
+<br><br>
+
+<center><form action="#" name="form1"><select style="BORDER-RIGHT: #990000 1px solid; BORDER-TOP: #990000 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #990000 1px solid; COLOR: #000000; BORDER-BOTTOM: #990000 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #FFFFFF" onchange="ChangeUrl(this.form)" size="1" name="ListeUrl">
+        <option>- Choisissez une partie -</option>
+        <option value="#01">I] Avant-propos</option>
+        <option value="#02">II] Comment entrer dans l'&icirc;le ?</option>
+        <option value="#03">III] L'&Icirc;le aux pirates</option>
+        <option value="#04">IV] Les 10 étages</option>
+</select></form></center>
+
+<br><br>
+<table width="420" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="soluce">
+<center><img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/island.png" width="240" height="160" border="2">
+<br><br><a name="01"></a><br><br>
+<b><font color="#ff0000">Avant-propos</font></b></center>
+
+<br><br><br>
+<b>L'île aux pirates</b> est un lieu facultatif si l'on veut juste terminer
+le jeu. Mais elle est essentielle pour obtenir tous les <span class="djinn">Djinn</span> et
+toutes les <span class="armes">reliques</span>.<br><br>
+Elle a été rapidement mentionnée dans la soluce mais nous la verrons
+ici en détails.<br><br>
+Avant toute chose, équipez-vous de la psynergie <span class="air">Stase</span>
+que l'on trouve derrière le rocher à l'arrière de <b>Val</b> ainsi que de la
+psynergie <span class="eau">Camouflage</span> offerte par Babi et la psynergie <span class="terre">Porter</span>
+qui se trouve dans <b>le phare de Vénus</b>.<br><br>
+Assurez-vous d'être au niveau 25 minimum si vous ne voulez pas vous retrouver
+KO. Les monstres que vous allez rencontrer ne sont certes pas invincibles
+mais sont assez redoutables.<br><br>
+Vendez tout objet dont vous n'avez pas besoin et équipez-vous de vos meilleures
+armes. Régénerez-vous et vous serez fin prêt pour <b>l'&Icirc;le aux Pirates</b> !
+<br><br><br>
+Une fois sur place, n'oubliez pas de sauvegarder régulièrement (après chaque coffre
+par exemple) ni de pousser les troncs à chaque étage qui
+vous permettrons de revenir à l'étage où vous étiez même après
+avoir quitté l'île.
+<br>
+<a name="02"></a>
+<br><br>
+<center><font color="#ff0000"><b>Comment entrer dans l'&Icirc;le aux pirates ?</b></font></center>
+    <br><br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/bateau.png" width="240" height="160" border="0" align="left">
+Une rumeur prétend que l'on peut atteindre la fameuse &icirc;le aux pirates en choisissant les bons rameurs sur le bateau qui mène à <b>Tolbi</b>,
+afin de faire dériver le bateau.<br><br>Cependant
+j'ai essayé maintes combinaisons sans jamais réussir...
+Si quelqu'un a la solution, qu'il me mail d'urgence !!
+</p>
+<div class="p_separator"></div>
+<br><font color="#ff0000">// Ajout (18/07/04) : Hebus le Troll a trouvé la combinaison !!</font>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/screen/rameur.png" width="240" height="160" border="0" align="right">
+Après le premier combat, demandez à <b>l'homme aux cheveux longs et à la
+cape verte</b> en bas à droite du tapis de ramer. Après le second combat,
+demandez à <b>la fille en robe marron</b> en haut à droite du tapis de ramer.
+Après le troisième, demandez à <b>l'homme chauve</b> en haut à gauche de ramer et
+après le dernier combat, demandez <b>au guide en vert</b> tout en haut de ramer.
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/screen/onderive.png" width="240" height="160" border="0" align="left">
+<br><br><br>Et là, magie ! le bateau dérive à tribord ! (vers la droite)
+</p>
+<div class="p_separator"></div>
+<br>
+La deuxième méthode est beaucoup plus pratique.<br><br><br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/pilier.png" width="240" height="160" border="0" align="right">
+<br><br>
+L'entrée secrète se trouve dans <b>le désert de Suhalla</b>. Vers la fin du désert, utilisez <span class="air">Vision</span> pour faire
+appaître un pilier et sauter dessus. Combattez le <span class="feu">Djinn</span> en bas si 
+ça vous plaît et entrez dans la caverne au-dessus.<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/tornade.png" width="240" height="160" border="0" align="left">
+<br><br><br>En ressortant, vous apercevez une tornade rose.
+Entrez dedans mais ne faites rien. Cette dernière vous emportera au loin, mais
+pas à <b>Suhalla</b>...
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<a name="03"></a>
+<br><br>
+<center><font color="#ff0000"><b>L'Île aux pirates</b></font></center>
+<br><br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/iledespirates.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>Vous voilà en effet sur une île inconnue.
+A présent dirigez-vous
+vers le centre de l'île.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/1.png" width="240" height="160" border="0" align="right">
+A gauche, utilisez <font color="#009900"><b>Bourgeon</b></font> pour faire pousser les 3
+lianes qui vous mèneront au sommet, d'ici, 3 chemins pour retomber sont possibles :<br>
+- à droite pour obtenir une <b>menthe</b>.<br>
+- au milieu pour obtenir <b>1 pièce</b>.<br>
+- à gauche pour entrer dans la grotte.<br>
+<br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/2.png" width="240" height="160" border="0" align="left">
+<br><br><br>Choisissez l'accès de droite, ouvrez le <span class="coffre">coffre</span> et remontez.
+Prenez l'accès de gauche et faites <span class="air">tourbillon</span> sur les feuilles et entrez par l'entrée dégagée.
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br><a name="04"></a><br><br>
+<center><font color="#ff0000"><b>Les 10 étages</b></font></center>
+<br><br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/3.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>Vous voilà enfin dans le donjon secret ! Entamons le 1er étage !
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/4.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>Approchez-vous de la porte : 3 monstres vous attaquent !!
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br><br><br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Hobgoblin</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Harpie noble 1</b> PV : 190<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre"><br>
+    <b>Hobgoblin</b> PV : 650<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre"><br>
+    <b>Harpie noble 2</b> PV : 190<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 397 pts d'exp.<br>
+    - 1040 pièces d'or<br>
+    - Porte-bonheur<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/5.png" width="240" height="160" border="0" align="right">
+<br><br>
+Contournez la salle par la droite pour obtenir un <b>antidote</b>.<br>
+Revenez au centre, bougez le tronc vers la gauche et prenez la <b>noisette</b> dans le <span class="coffre">coffre</span>.
+Sortez de la salle et revenez.
+<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/6.png" width="240" height="160" border="0" align="left">
+<br><br>Déplacez le tronc cette fois à droite pour
+aller à gauche, prenez le <span class="coffre">coffre</span> (<b>111 pièces</b>), déplacez le 2e tronc à droite, prenez la <b>noix</b> en haut.
+Sortez à nouveau de la salle et revenez.
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/7.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>Déplacez le premier tronc à droite, et le second à gauche.
+Allez au fond à droite, puis en haut et enfin à gauche.<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/8.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>Tirez le tronc vers vous, et revenez au centre de la pièce.<br><br><br><br>
+<br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/9.png" width="240" height="160" border="0" align="right">
+<br><br><br>Déplacez le tronc du centre à droite, puis déplacez
+celui en haut toujours à droite, allez en haut, contournez par la gauche vers le bas.
+Sortez de la salle.<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/10.png" width="240" height="160" border="0" align="left">
+<br><br><br><br>Il y a un <b>coffre</b> à la sortie, c'est un <b><i>mimique</i></b> ! Combattez-la ou évitez-la.<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br><br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Mimique</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+      <font size="1">Monstres :<br>
+      <b>Mimique</b> PV : 720<br>
+      Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+      Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air"><br>
+      </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+      <font size="1"><b>Gains :</b><br>
+      - 397 pts d'exp.<br>
+      - 1040 pièces d'or<br>
+      - Porte-bonheur<br>
+      </font>
+    </td>
+  </tr>
+</table>
+</center>
+<br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/11.png" width="240" height="160" border="0" align="left">
+<br><br><br><br>Deuxième étage !! Ouvrez la porte du deuxième étage, 3 monstres vous attaquent<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br><br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Kodiak</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+      <font size="1">Monstres :<br>
+      <b>Kodiak 1</b> PV : 800<br>
+      Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+      Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air"><br>
+      <b>Kodiak 2</b> PV : 800<br>
+      Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+      Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air"><br>
+      <b>Succube</b> PV : 530<br>
+      Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+      Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+      </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+      <font size="1"><b>Gains :</b><br>
+      - 587 pts d'exp.<br>
+      - 1543 pièces d'or<br>
+      - Potion<br>
+      </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/12.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>
+Prenez l'<b>Elixir</b> dans le <span class="coffre">coffre</span> en face, les <b>222 pièces</b> 
+dans le <span class="coffre">coffre</span> à droite et le <b>poivre</b> juste au-dessus.
+
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/13.png" width="240" height="160" border="0" align="left">
+<br><br>Poussez le pilier à côté de vous vers la gauche,
+puis celui juste en dessous vers le haut.
+Poussez de même le premier pilier vers le haut pour enfin
+pousser le pilier de gauche à droite et passez en poussant l'ultime pilier.<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/14.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>
+Prenez la <span class="armes">lame mystère</span> et sortez de la salle.
+<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/15.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>
+Troisième étage ! Devinez qui vous attaquent ?
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Liche</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Ghast 1</b> PV : 610<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau"><br>
+    <b>Liche</b> PV : 900<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau"><br>
+    <b>Ghast 2</b> PV : 610<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 437 pts d'exp.<br>
+    - 1418 pièces d'or<br>
+    - Cristal psy<br>
+    - Antidote<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/16.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>
+Le but du jeu est à présent de récupérer <b>les 5 clés</b>
+éparpillées dans la salle avec <span class="terre">Attraper</span> !
+Une première...<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/17.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>Une seconde...
+<br><br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/18.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>Une troisième...<br><br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/19.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>Une quatrième...<br><br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/20.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>Et enfin une cinquième, la rouge que l'on prend avec
+<span class="air">Vision</span>.<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/21.png" width="240" height="160" border="0" align="left">
+<br>
+Ouvrons à présent les quatre portes du dessus pour
+ouvrir les quatre coffre et obtenir de droite à gauche
+du <b>Fumigène</b>, un <b>Cookie</b>, un <span class="armes">Anneau féérique</span> et <b>333 pièces</b>.
+<br><br><br>
+Ouvrez la porte orange à gauche et sortez de la salle.<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/22.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>4e étage, cette fois seuls 2 monstres vous attaquent.<br><br>
+</p>
+<div class="p_separator"></div>
+<br><br><br><br><br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Griffon</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Griffon 1</b> PV : 1100<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre"><br>
+    <b>Griffon 2</b> PV : 1100<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 606 pts d'exp.<br>
+    - 3800 pièces d'or<br>
+    - Potion<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/23.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>
+Commencez par faire <span class="air">Stase</span> sur la première statue à droite
+et prenez le <b>Somnifère</b> dans le coffre.<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/24.png" width="240" height="160" border="0" align="left">
+<br>
+Faites stase sur la seconde puis <span class="eau">camouflage</span> quand vous êtes dans le noir.
+Prenez les <b>444 pièces</b> tout en haut puis contournez par la gauche la statue juste à droite en vous assurant d'être toujours bien camouflé.
+Prenez le <span class="armes">Para-tonnerre</span> tout à droite puis revenez au début de la salle.
+<br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/25.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>A gauche refaites <span class="eau">camouflage</span> pour contournez la statue et
+prenez le <b>Cristal psy</b> dans le <span class="coffre">coffre</span> avant de sortir.<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/26.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br>5e étage ! 4 monstres !<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br><br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Roi saurien</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Caillasse 1</b> PV : 180<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu"><br>
+    <b>Reine harpie</b> PV : 230<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre"><br>
+    <b>Roi saurien</b> PV : 2000<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau"><br>
+    <b>Caillasse 2</b> PV : 180<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 881 pts d'exp.<br>
+    - 1560 pièces d'or<br>
+    - Cristal psy<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/27.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>Première chose, prendre les <b>555 pièces</b> en haut à
+droite.<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/28.png" width="240" height="160" border="0" align="left">
+<br>
+Ensuite, déplacez le tronc vertical du haut vers la gauche et
+celui juste en bas vers le haut. Replacez le premier tronc comme
+il était et enclenchez l'interrupteur près de l'entrée pour faire
+monter l'eau. Sautez sur les troncs et récupérer le <b>porte-bonheur</b>
+dans le <span class="coffre">coffre</span>.<br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/29.png" width="240" height="160" border="0" align="right">
+Videz la salle, retournez près des troncs.
+Bougez les deux troncs verticaux vers la gauche.
+Déplacer le tronc du haut vers le bas ainsi que le deuxieme tronc en partant de
+la droite.
+Déplacez le tronc vertical du bas vers la droite, remontez le tronc précédent,
+et déplacez le tronc vertical du haut vers la droite.
+</p>
+<div class="p_separator"></div>
+<br>
+<center>Interrupteur, blabla, vous obtenez un <span class="armes">Shinobi shojoku</span>.</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/30.png" width="240" height="160" border="0" align="right">
+Bougez tous les troncs verticaux à gauche, bougez tous les troncs
+horizontaux vers le haut. Rabattez le tronc vertical du haut ainsi que le tronc
+horizontal juste au-dessus. Remettez l'eau, sautez sur les troncs.
+<br><br>Ouvrez le <span class="coffre">coffre</span> : <b>Potion</b>. Sortez par le bas.
+</p>
+<div class="p_separator"></div>
+<br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/31.png" width="240" height="160" border="0" align="left">
+<br><br><br><br><br><br>6e étage ! yahoo...<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Chimère</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Chimère 1</b> PV : 1300<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu"><br>
+    <b>Chimère 2</b> PV : 1300<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 930 pts d'exp.<br>
+    - 1600 pièces d'or<br>
+    - Potion<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/32.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>
+Avant tout, poussez le tronc avec un coffre au dessus jusqu'au fond.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/33.png" width="240" height="160" border="0" align="left">
+<br><br>
+Ensuite, déplacez les deux troncs comme ci-contre.
+<br><br>
+Montez les échelles, descendez la pente, sautez sur les troncs, ouvrez
+le <span class="coffre">coffre</span> en haut : <b>Elixir</b>.<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/34.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>
+Descendez l'échelle, remontez à celle plus haut. Vous croisez un <span class="terre">Djinn</span>
+qui s'enfuit. Ignorez-le et continuez votre chemin.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/35.png" width="240" height="160" border="0" align="left">
+<br><br>
+Faites tomber le tronc par la pente, descendez à votre tour et gelez la flaque
+avec <span class="eau">Frimas</span>. Remontez l'échelle, sautez sur le pilier de glace.
+Prenez le <span class="coffre">coffre</span> en haut : <b>666 pièces</b>.
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/36.png" width="240" height="160" border="0" align="right">
+<br>
+Le <span class="terre">Djinn</span> fuit à nouveau. Poussez le tronc jusqu'à ce qu'il soit sous l'échelle.
+<br><br>
+Remontez les échelles, descendez par l'autre pour arriver sur le tronc, rejoignez
+le <span class="coffre">coffre</span> : vous obtenez <span class="armes">la hache d'Achéron</span> !!
+<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/37.png" width="240" height="160" border="0" align="left">
+<br><br>
+Revenez au pilier de glace, déplacez le tronc. Placez vous derrière le
+plot et faites déplacez afin de placer le tronc le plus loin possible tout en étant
+dans la partie du haut de la salle.
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/38.png" width="240" height="160" border="0" align="right">
+<br><br><br>
+Ceci fait, remontez par l'échelle du haut, redescendez, sautez sur le tronc
+et ouvrez le <span class="coffre">coffre</span> : <b>Eau jouvence</b>.<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/39.png" width="240" height="160" border="0" align="left">
+Bien, occupons-nous du <span class="terre">Djinn</span> à présent. Celui-ci fuit quand vous vous
+approchez et va vers le début de la salle, rejoignez-le.
+<br><br>
+Utilisez <span class="air">Stase</span> sur le fuyard pour ne pas qu'il bouge et capturez-le.<br><br>
+Vous obtenez <span class="terre">Basalte</span> !!!<br>
+Vous pouvez sortir de la salle.
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/40.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>7e étage ! Courage ! plus que trois !<br><br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Guivre</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Guivre 1</b> PV : 1550<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre"><br>
+    <b>Guivre 2</b> PV : 1550<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 1090 pts d'exp.<br>
+    - 1840 pièces d'or<br>
+    - Eau jouvence<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/41.png" width="240" height="160" border="0" align="left">
+<br><br><br>
+Utilisez <span class="terre">Porter</span> sur le bloc pour pouvoir aller à droite et prendre le <span class="coffre">coffre</span> (<b>Porte
+Bonheur</b>). Sortez de la salle et revenez.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/42.png" width="240" height="160" border="0" align="right">
+<br>
+Utilisez <span class="terre">Porter</span> à nouveau sur le même bloc mais posez le cette fois à gauche.
+Montez et descendez les échelles de gauche. Portez le bloc et sautez dessus pour
+ouvrir le <span class="coffre">coffre</span> : vous obtenez un <b>Cristal psy</b>.
+<br><br>
+Sortez et revenez.
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/43.png" width="240" height="160" border="0" align="left">
+<br>
+Porter toujours sur le même bloc et sur la palte-forme de gauche
+poussez ensuite le bloc jusqu'à ce qu'il tombe de l'autre côté et déplacez le
+encore d'un cran à gauche. Vous pouvez ainsi récupérer <span class="armes">la Masse du Chaos</span> qui
+est dans le <span class="coffre">coffre</span>.<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/44.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br>
+Allez plus bas, portez le bloc pour passer à gauche.
+<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/45.png" width="240" height="160" border="0" align="left">
+Enigmatique ce dernier <span class="coffre">coffre</span>... comment l'ouvrir ?<br>
+Bon je vous laisse 1 min pour réfléchir...<br>
+... 4... 3... 2... 1...<br>
+Toujours pas trouvé ? Il suffit de descendre d'une case et de sauter
+vers la droite ^^ c'est simple mais efficace.
+Vous obtenez <b>777 pièces</b>. Vous pouvez sortir.
+<br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/46.png" width="240" height="160" border="0" align="right">
+<br><br><br><br><br><br>8e étage ! Let's go !<br><br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Crapaud vireux</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Electroguivre 1</b> PV : 450<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air"><br>
+    <b>Crapaud vireux</b> PV : 2250<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau"><br>
+    <b>Electroguivre 2</b> PV : 450<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_vent.gif" width="8" height="8" border="0" alt="Air">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 2576 pts d'exp.<br>
+    - 2642 pièces d'or<br>
+    - Eau jouvence<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/47.png" width="240" height="160" border="0" align="right">
+<br><br><br>
+Ignorez la première flaque et <span class="eau">gelez</span> la seconde de l'intérieur.
+Montez l'échelle, sautez sur le pilier créé et ouvrez le <span class="coffre">coffre</span> (<b>888 pièces</b>)
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/48.png" width="240" height="160" border="0" align="left">
+<br><br><br><br>
+Descendez, poussez le rocher vers la droite jusqu'au fond.
+Remontez, allez tout à droite, descendez par la pente.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/49.png" width="240" height="160" border="0" align="right">
+<br><br><span class="eau">Gelez</span> la flaque pour activer la flamme qui fera fondre le premier pilier.
+Poussez ensuite le tronc vers le bas.
+<br><br>
+Regelez la flaque qui vient de fondre de l'intérieur et prenez le <span class="coffre">coffre</span>
+à droite (<b>Fumigène</b>).<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/50.png" width="240" height="160" border="0" align="left">
+<br><br><br>
+Allez sur la plate-forme à gauche et descendez, poussez
+le second tronc vers le bas et montez l'échelle.
+Vous obtenez <span class="armes">un Anneau clérical</span>.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/51.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>
+<span class="eau">Gelez</span> la flaque de gauche dos à l'échelle, prenez le coffre (<b>Potion</b>).
+Descendez par la pente et sortez de la salle.
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/52.png" width="240" height="160" border="0" align="left">
+<br><br><br><br>9e étage ! Right here ! Right now !
+La dernière ligne droite !!!!<br>
+<font color="#ffffff">Je suis en train de regarder un épisode de Naruto pendant que je fais cette soluce.</font><br><br><br>
+</p>
+<div class="p_separator"></div>
+<br>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Groupe de Cerbère</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Cerbère 1</b> PV : 2200<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau"><br>
+    <b>Cerbère 2</b> PV : 2200<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_feu.gif" width="8" height="8" border="0" alt="Feu">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau">
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 3726 pts d'exp.<br>
+    - 6400 pièces d'or<br>
+    - Cristal psy<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/53.png" width="240" height="160" border="0" align="left">
+<br><br><br>Marchons sur les troncs &#9834;<br><br>
+D'abord celui de gauche pour aller en haut,
+ensuite celui du haut que l'on rencontre pour aller à droite.
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/54.png" width="240" height="160" border="0" align="right">
+<br><br><br><br>On reviens au début en passant par la droite et on remonte
+par le tronc à droite.<br><br>
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/55.png" width="240" height="160" border="0" align="left">
+<br><br><br>On saute à droite pour rejoindre le bord
+et on marche sur le tronc en bas à droite pour atteindre le <span class="coffre">coffre</span>
+(<b>999 pièces</b>).
+<br><br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/56.png" width="240" height="160" border="0" align="right">
+On rejoint le bord à droite, marche sur
+les 2 troncs en haut à droite, saute sur le tronc juste en bas
+et marche jusqu'à la rive gauche.<br><br>
+En prenant le tronc juste au-dessus on récupère un <b>Somnifère</b>
+et en revenant à gauche vous obtenez une <b>Eau jouvence</b>.
+<br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/57.png" width="240" height="160" border="0" align="left">
+<br>
+Seconde partie du level.
+Faites monter tous les troncs horizontaux vers le haut.
+<br><br>
+Avancez ensuite le tronc vertical le plus bas vers la gauche, puis
+redescendez le deuxième tronc horizontal vers le bas.
+<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/58.png" width="240" height="160" border="0" align="right">
+<br>
+Avancez le second tronc vertical vers la gauche.
+<br><br>
+Redescendez le troisième tronc horizontal, et
+avancez le tronc à droite vers la gauche.
+<br><br>
+Vous obtenez... <span class="armes">le Muramasa</span> !!!<br>
+Sortez de la salle.
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/59.png" width="240" height="160" border="0" align="left">
+<br><br>
+Voici enfin le 10e et dernier étage de la cave de l'île aux pirates !
+Le repaire maudit de <b><i>Warrax</i></b>, votre ultime ennemi, connu pour
+être le démon le plus puissant du jeu !!!
+<br><br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/60.png" width="240" height="160" border="0" align="right">
+<br><br>
+Toutes les potions que vous avez récupérées durant ce jeu
+ne serviront que pour cet ultime combat ! N'affrontez pas le <b><i>mimique</i></b> pour ne pas
+vous épuiser. Vous lui réglerez son compte plus tard.
+<br><br><br>
+</p>
+<div class="p_separator"></div>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/61.png" width="240" height="160" border="0" align="left">
+<i>« Ça y est, il est là ! De sa masse imposante, le démon de l'île maudite des pirates
+vous fait face ! Sous son heaume noir des ténèbres, deux yeux
+jaunes brillants et surtout terrifiants et haineux vous dévisagent.
+Soudain, la lourde épée s'abat sur vous ! Le duel vient d'être engagé...»</i>
+
+<br><br><br>
+</p>
+<div class="p_separator"></div>
+<center>
+<table border="1" cellspacing="0" width="200" cellpadding="4" bordercolorlight="#000000" bordercolordark="#000000">
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/chipset/warrax.gif" width="33" height="51">
+    </td>
+  </tr>
+  <tr align="center" bgcolor="#CCCCFF">
+    <td><font size="2"><b>Warrax</b></font></td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1">Monstres :<br>
+    <b>Warrax</b> PV : 6000<br>
+    Faiblesse : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_terre.gif" width="8" height="8" border="0" alt="Terre">
+    Résistance : <img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/icone/psy_eau.gif" width="8" height="8" border="0" alt="Eau"><br>
+    </font>
+    </td>
+  </tr>
+  <tr bgcolor="#CCCCFF">
+    <td>
+    <font size="1"><b>Gains :</b><br>
+    - 8000 pts d'exp.<br>
+    - 9000 pièces d'or<br>
+    - Eau jouvence<br>
+    </font>
+    </td>
+  </tr>
+</table>
+</center>
+<br>
+<p>
+<img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/ileauxpirates/62.png" width="240" height="160" border="0" align="right">
+<i>
+<br><br><br>«... la bête laissa alors place à la relique maudite des
+assassins, l'armure qui avait été enterrée sous terre et scellée
+par l'alchimie : la Plate Abyssale.»</i>
+<br><br><br>
+</p>
+<br><br><br><br>
+<center><img src="/web/20230128095345im_/https://v3.goldensun-world.com/img/smiley/myadmin1.gif" width="55" height="45" border="0"><br><br>
+<b>THE END</b></center>
+
+
+<br><br><br><br>
+<div align="right">Soluce et screenshots par Garyash.</div>
+    </td>
+  </tr>
+</table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_right-d1d12e11c23b745c367aef7523322db66be3732272b8c7cf195f6fa1a1c9c9c2.jpg" valign="top" bgcolor="#1A4F84"><table border="0" cellpadding="0" cellspacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent id="birthday">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topright_07-7e229d39a6ea89a59832b876d307d454777d7d87f8c4a36544ecb8e4156314e0.gif" width="130" height="48" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+          <td class="menu" align="center">
+            <table width="114" height="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td>
+                  <center>
+                    Aucun.
+                  </center>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent id="jukebox">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topright_06-b2b63b0bdb70a2ca1bc45268d34df3da8ebe2df02ecf82e8dfc6cf335bc3d273.gif" width="130" height="48" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+          <td class="menu" align="center">
+            <table width="114" height="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><center>
+                  <a href="#" onclick="window.open('/site_jukeflash.php','jukebox','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=301,height=151');return(false)" class="disabled"><font color="#000000">Jukebox (v. Flash)</font></a>
+                  <br>
+                  <a href="#" onclick="window.open('/site_juke.php','jukebox','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=302,height=153');return(false)" class="disabled"><font color="#000000">Jukebox (v. PHP)</font></a></center>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent id="member-zone">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topright_05-7b1a5a6ec98f7f1d76cf891336560f92b59911f6ed6b0d7f3b7ca9dcbd9827ef.gif" width="130" height="30" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="95%" border="0" cellpadding="0" cellspacing="0" align="right">
+        <tr>
+          <td class="menu">
+              <form action="/web/20230128095345/https://v3.goldensun-world.com/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"/><input type="hidden" name="authenticity_token" value="KwF0+QToE/bHfpPCb9Q1v9UBSlA4Qjeldeh20oxxxsX0nhNGFVqd2s3yzOOw2G9idA96CdAss/HoZGfLec4AaA=="/>
+<center>
+  <b>
+    <label for="user_login">
+      <font size="1">Pseudo :</font><br>
+</label>    <input class="input" size="10" autocomplete="username" type="text" name="user[login]" id="user_login"/>
+    <br>
+    <label for="user_password">
+      <font size="1">Mot de Passe :</font><br>
+</label>    <input class="input" size="10" autocomplete="current-password" type="password" name="user[password]" id="user_password"/>
+    <br>
+    <input value="1" type="hidden" name="user[remember_me]" id="user_remember_me"/>
+    <input type="submit" name="commit" value="Se connecter" class="input_submit" data-disable-with="Se connecter"/>
+  </b>
+</center>
+</form><div align="right"><font size="1"><a href="/web/20230128095345/https://v3.goldensun-world.com/users/password/new">Oubli de mot de passe ?</a></font></div>
+
+
+            <br>
+            <center>
+              <a href="/web/20230128095345/https://v3.goldensun-world.com/list_membre.php" class="disabled"><font size="1">Liste des membres</font></a><br>
+              <a href="/web/20230128095345/https://v3.goldensun-world.com/list_membre_attente.php" class="disabled"><font size="1">Membres en attente</font></a>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+
+<!-- <iframe width="128" height="200" src="/dialbox_iframe" frameborder="0" style="border: inset #000000 1px;" id="dialbox-iframe"></iframe><br> -->
+<img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botmiddle-d582f2e9bfe9ce6f3336088cecfc73d7725dd320ec513dfcb14b67066907931d.gif" width="130" height="10" border="0" alt=""><br>
+<table cellpadding="2" cellspacing="0" width="130" height="120" bgcolor="#99CCFF" style="border :1px solid;" id="dialbox-info">
+  <tr>
+    <td align="center">
+      Ouvrir la Dialbox en :<br><a href="#" onclick="window.open('/dialbox?size=1','dial_box','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=500,height=450');return(false)">Petite taille (640x480)</a><br><a href="#" onclick="window.open('/dialbox?size=2','dial_box2','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=500,height=570');return(false)">Moyenne taille (800x600)</a><br><a href="#" onclick="window.open('/dialbox?size=3','dial_box3','toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,copyhistory=0,menuBar=0,width=500,height=738');return(false)">Grande taille (1024x768)</a><br>
+    <br>
+      Connecté(s) : <b></b>
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="affiliés" width="130" data-turbolinks-permanent id="affiliate">
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/topright_01-d733dc4f21afcf5674215d7b015b30a2e62da08b7f96e43a86078ce0cbb23a3e.gif" width="130" height="50" border="0"></td>
+  </tr>
+  <tr>
+    <td background="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/back_right2-4a54527ed18ad6bf83b570ca74d1655b4ac6bd91c8e8128af2e3b1db7820188e.gif">
+      <table width="93%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+          <td class="menu">
+            &nbsp;&nbsp;<font face="Verdana"><span class="raquo"><b>»</b></span> <a href="affiliation.php" class="menu disabled">Affiliation</a></font>
+            <br><br>
+            <center>
+            <font size="1">
+              <a href="http://web.archive.org/web/20230128095345/http://www.aw-experience.com/" target="_blank">AW Experience</a><br>
+            </font>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/botright-56321663ab2431a94970e8211d501096b312577bd7160e3e2cfb8fb5d3f6fee5.gif" width="130" height="20" border="0"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="http://web.archive.org/web/20230128095345im_/https://v3.goldensun-world.com/assets/layer/bottom-53c5921ab113530539c843e774c03899353cc7eddf040b9e7d33fd0b4f41cde3.gif" width="760" height="16" border="0" usemap="#bottom">
+<br><br></td>
+  </tr>
+</table>
+<br>
+<map name="home">
+  <area shape="rect" coords="8,6,294,125" href="/web/20230128095345/https://v3.goldensun-world.com/home" alt="Page d'Accueil">
+  <area shape="rect" coords="274,71,484,125" href="/web/20230128095345/https://v3.goldensun-world.com/home" alt="Page d'Accueil">
+</map>
+<map name="bottom">
+  <area shape="rect" coords="12,2,28,14" href="#top">
+  <area shape="rect" coords="732,2,748,14" href="#top">
+</map>
+<map name="menu_center">
+  <area shape="rect" coords="52,7,123,35" href="http://web.archive.org/web/20230128095345/https://discord.gg/aSXCTEt" alt="Discord" target="_blank">
+  <area shape="rect" coords="168,8,262,38" href="http://web.archive.org/web/20230128095345/http://goldensunw.free.fr/btf_project/forum.php" alt="Forum" target="_blank">
+  <area shape="rect" coords="310,6,446,38" href="/web/20230128095345/https://v3.goldensun-world.com/site/guestbook" alt="Livre d'Or">
+</map>
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:53:45 Jan 28, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:55:50 Mar 22, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.075
+  exclusion.robots.policy: 0.063
+  cdx.remote: 0.101
+  esindex: 0.011
+  LoadShardBlock: 611.671 (6)
+  PetaboxLoader3.resolve: 463.663 (4)
+  PetaboxLoader3.datanode: 138.245 (7)
+  load_resource: 77.831
+-->
