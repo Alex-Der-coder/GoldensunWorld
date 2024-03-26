@@ -181,7 +181,7 @@ export default function Home() {
           <br />
           <br />
           <br />
-          <div align="right">Preview réalisée par Cristali feat. Garyash</div>
+          <div className=" flex justify-end">Preview réalisée par Cristali feat. Garyash</div>
           <br />
           <br />
           <br />
