@@ -17,6 +17,8 @@ import Topright5 from "./assets/topright_05-7b1a5a6ec98f7f1d76cf891336560f92b599
 import TopRight1 from "./assets/topright_01-d733dc4f21afcf5674215d7b015b30a2e62da08b7f96e43a86078ce0cbb23a3e.gif"
 import Bothmidle from "./assets/botmiddle-d582f2e9bfe9ce6f3336088cecfc73d7725dd320ec513dfcb14b67066907931d.gif"
 import Bottom from "./assets/bottom-53c5921ab113530539c843e774c03899353cc7eddf040b9e7d33fd0b4f41cde3.gif"
+import Link from 'next/link'
+
 export default function RootLayout({
 
   children,
@@ -33,7 +35,6 @@ export default function RootLayout({
         <tbody suppressHydrationWarning={true}>
           <tr>
             <td colSpan={3}>
-              {/* Utilisation de la balise Image de Next.js */}
               <Image src={header} width={760} height={130} alt="Header Image" />
             </td>
           </tr>
@@ -86,8 +87,8 @@ export default function RootLayout({
         <tbody><tr>
           <td className="menu">
             <span className="raquo"  style={{ lineHeight: '24px' }}><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_l%27%C3%82ge_Perdu" className="menu disabled" target="_blank"><b /><u>Voir le Wiki</u><b /></a><br />
-            <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_info" className="menu">Test / Infos Jeu</a><br />
-            <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_histoire" className="menu">Histoire</a><br />
+            <span className="raquo"><b>»</b></span> <Link className="menu" href="/GS2/info">Test / Infos Jeu</Link><br />
+            <span className="raquo"><b>»</b></span><Link className="menu" href="/GS2/histoire">Histoire</Link><br />
             <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_personnages" className="menu">Personnage</a><br />
             <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_soluce" className="menu"><b>Soluce</b></a><br />
             <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_quetedesanimaux" className="menu"><b>Quête des animaux </b></a><br />
