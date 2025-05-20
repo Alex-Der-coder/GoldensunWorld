@@ -1,58 +1,47 @@
 import Image from "next/image";
-
+import Info from "../../assets/info.gif"
 
 export default function Home() {
   return (
-    <table width="100%"  border={0} cellSpacing={0} cellPadding={15} className="absolute w-[34%] left-[33%]">
+    <table width="100%"  border={0} cellSpacing={0} cellPadding={15} >
     <tbody>
       <tr>
         <td className="yield">
           <center>
-            <Image
-              src="/web/20230128104123im_/https://v3.goldensun-world.com/img/title/info.gif"
-              width={149}
-              height={55}
-              alt="test"
-            />
+            <Image src={Info}   width={149} height={55} alt="test"/>
             <br />
             <br />
-            <table
-              border={1}
-              align="center"
-              width={250}
-              cellSpacing={0}
-              cellPadding={1}
-            >
+            <table className="border-2 border-solid  border-spacing-2" border={1} align="center" width={250} cellSpacing={0} cellPadding={1} >
               <tbody>
-                <tr>
-                  <td width={100}>
-                    <b>Editeur :</b>
+                <tr className="border-2 border-solid">
+                  <td className="border-2 border-solid" width={100}>
+                    <b className="p-px">Editeur :</b>
                   </td>
-                  <td>Nintendo</td>
+                  <td className="p-px">Nintendo</td>
                 </tr>
-                <tr>
-                  <td>
-                    <b>Concepteur :</b>
+                <tr className="border-2 border-solid">
+                  <td className="border-2 border-solid">
+                    <b className="p-px">Concepteur :</b>
                   </td>
-                  <td>Camelot</td>
+                  <td className="p-px">Camelot</td>
                 </tr>
-                <tr>
-                  <td>
-                    <b>Console :</b>
+                <tr className="border-2 border-solid">
+                  <td className="border-2 border-solid">
+                    <b className="p-px">Console :</b>
                   </td>
-                  <td>Game Boy Advance</td>
+                  <td className="p-px">Game Boy Advance</td>
                 </tr>
-                <tr>
-                  <td>
-                    <b>Genre :</b>
+                <tr className="border-2 border-solid">
+                  <td className="border-2 border-solid">
+                    <b className="p-px">Genre :</b>
                   </td>
-                  <td>RPG</td>
+                  <td className="p-px">RPG</td>
                 </tr>
-                <tr>
-                  <td>
-                    <b>Sortie :</b>
+                <tr className="border-2 border-solid">
+                  <td className="border-2 border-solid">
+                    <b className="p-px">Sortie :</b>
                   </td>
-                  <td>19 Septembre 2003</td>
+                  <td className="p-px">19 Septembre 2003</td>
                 </tr>
               </tbody>
             </table>

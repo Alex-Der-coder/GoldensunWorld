@@ -28,10 +28,9 @@ export default function RootLayout({
 
 
   return (
-    <html lang="en"  >
-      <body>
-      <div>
-      <table  id="main" >
+    <html lang="fr"  >
+      <body suppressHydrationWarning={true}>
+      <table   id="main" >
         <tbody suppressHydrationWarning={true}>
           <tr>
             <td colSpan={3}>
@@ -87,8 +86,8 @@ export default function RootLayout({
         <tbody><tr>
           <td className="menu">
             <span className="raquo"  style={{ lineHeight: '24px' }}><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/http://wiki.goldensun-world.com/index.php/Golden_Sun_:_l%27%C3%82ge_Perdu" className="menu disabled" target="_blank"><b /><u>Voir le Wiki</u><b /></a><br />
-            <span className="raquo"><b>»</b></span> <Link className="menu" href="/GS2/info">Test / Infos Jeu</Link><br />
-            <span className="raquo"><b>»</b></span><Link className="menu" href="/GS2/histoire">Histoire</Link><br />
+            <span className="raquo"><b>»</b></span> <Link className="menu" href="/GSWorld/info" >Test / Infos Jeu</Link><br />
+            <span className="raquo"><b>»</b></span><Link className="menu" href="/GSWorld/gs1_boss" >Histoire</Link><br />
             <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_personnages" className="menu">Personnage</a><br />
             <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_soluce" className="menu"><b>Soluce</b></a><br />
             <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs2_quetedesanimaux" className="menu"><b>Quête des animaux </b></a><br />
@@ -160,7 +159,7 @@ export default function RootLayout({
           <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs1_reliques2#anneaux" className="menu">Reliques (anneaux)</a><br/>
           <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs1_meilleur_equipement" className="menu">Meilleur Equipmnt</a><br/>
           <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs1_carte" className="menu">Carte du Monde</a><br/>
-          <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs1_boss" className="menu">Boss</a><br/>
+          <span className="raquo"><b>»</b></span> <a href="/GSWorld/gs1_boss" className="menu">Boss</a><br/>
           <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs1_codeacces" className="menu">Code Sauvegarde</a><br/>
           <span className="raquo"><b>»</b></span> <a href="http://web.archive.org/web/20230128105537/https://v3.goldensun-world.com/gs1_boxart" className="menu">Box Art</a><br/>
 
@@ -239,7 +238,7 @@ export default function RootLayout({
   </td>
   
 
-  <td style={{ height: '200px', marginLeft: '100%', display: 'block' }} valign="top" >
+  <td className="ml-[500px] absolute " valign="top" >
 <table  cellPadding="0" cellSpacing="0" summary="membres" width="130" bgcolor="#1A4F84" data-turbolinks-permanent="" id="birthday">
   <tbody><tr>
     <td><Image src={Topleft7}  width="130" height="48" alt="test" /></td>
@@ -283,7 +282,7 @@ export default function RootLayout({
             <table width="114"  cellPadding="0" cellSpacing="0">
               <tbody><tr>
                 <td><center>
-                  <a href="#" className="disabled">Jukebox (v. Flash)</a>
+                  <a href="/GSWorld/player_soundtrack" >Jukebox (v. Flash)</a>
                   <br/>
                   <a href="#"  className="disabled">Jukebox (v. PHP)</a></center>
                 </td>
@@ -383,20 +382,16 @@ export default function RootLayout({
 
 </tbody></table>
 </td>
-<td>{children}</td>
-
+<td className="absolute w-[34%] left-[33%]" >{children}</td>
 </tr>
+
 <tr>
-    <td colSpan={3}  style={{ backgroundColor: "#1a4f84" }}><Image src={Bottom} width="760" height="16"   alt="final flash"/>
+    <td className="absolute bg-[#1a4f84]" colSpan={3} ><Image src={Bottom} width="760" height="16"   alt="final flash"/>
 <br/><br/></td>
   </tr>
         </tbody>
 
-      </table>
-
-
-
-    </div>
+        </table>
       </body>
     </html>
   )

@@ -1,10 +1,11 @@
 import Image from "next/image";
-
+import Histoire from "../../assets/histoire.gif"
+import Gif from "../../assets/gs2_histoire_anim.gif"
 
 export default function Home() {
   return (
 
-<table width="100%"   cellSpacing={0} cellPadding={15} className="absolute w-[34%] left-[33%]">
+<table width="100%"   cellSpacing={0} cellPadding={15} >
   <tbody>
     <tr>
       <td className="yield">
@@ -20,7 +21,7 @@ export default function Home() {
               <td>
                 <center>
                   <Image
-                    src="/web/20230128095454im_/https://v3.goldensun-world.com/img/title/histoire.gif"
+                    src={Histoire}
                     width={168}
                     height={45}
                     alt="test"
@@ -256,11 +257,7 @@ export default function Home() {
                   <br />
                   <center>
                     <Image
-                      src="/web/20230128095454im_/https://v3.goldensun-world.com/img/screen/gs2_histoire_anim.gif"
-                      width={240}
-                      height={160}
-                        alt="test"
-                    />
+                      src={Gif} width={240} height={160} alt="test" />
                   </center>
                   <br />
 
