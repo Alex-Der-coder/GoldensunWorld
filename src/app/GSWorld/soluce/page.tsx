@@ -29,7 +29,7 @@ export default function Home() {
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce16">XVI] Le bateau de Piers</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce17">XVII] Mont Gaia</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce18">XVIII] Izumo</a></li>
-    <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce19">XIX] Archipel d'Apojii</a></li>
+    <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce19">XIX] Archipel d&apos;Apojii</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce20">XX] Rocheau</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce21">XXI] Toundra</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce22">XXII] Ankhol</a></li>
@@ -39,7 +39,7 @@ export default function Home() {
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce26">XXVI] Champa</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce27">XXVII] Lémuria</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce28">XXVIII] Village de Shaman</a></li>
-    <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce29">XXIX] Îlot d'Atteka</a></li>
+    <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce29">XXIX] Îlot d&apos;Atteka</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce30">XXX] Le Phare de Jupiter</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce31">XXXI] Contigo</a></li>
     <li><a href="https://web.archive.org/web/20230128093130/https://v3.goldensun-world.com/gs2_soluce32">XXXII] Mont Magma</a></li>
