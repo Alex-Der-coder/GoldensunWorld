@@ -185,14 +185,14 @@ export default function Home() {
       <td className="border-2 border-solid" ><a href="#" ><Image src={Fight16} width="120" height="80" alt="test"/></a></td>
     </tr>
     </tbody></table>
-    <p>La double attaque signifie que l'adversaire attaque
+    <p>La double attaque signifie que l&apos;adversaire attaque
     deux fois par tour.</p>
     <p>Le craposaure regagne 80 PV par tour (un peu comme les
     gobelins).</p>
     <p>&nbsp;</p>
     <p>Je ne vous ai pas mis de stratégie spécifique
     pour les vaincre, car le jeu perdrait tout son intérêt. Et
-    à quoi ça sert d'acheter le jeu si nous jouons à
+    à quoi ça sert d&apos;acheter le jeu si nous jouons à
     votre place ?!? =Þ</p>
     <p>&nbsp;</p>
     <p >page réalisée
