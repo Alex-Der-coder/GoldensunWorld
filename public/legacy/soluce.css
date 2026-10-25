@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana;
+  font-size: 9pt;
+  background-color: #1A4F84;
+  scrollbar-face-color: #99CCFF; 
+  scrollbar-shadow-color: #000000;
+  scrollbar-highlight-color: #FFFFFF;
+  scrollbar-3dlight-color: #000000; 
+  scrollbar-darkshadow-color: #000000; 
+  scrollbar-track-color: #000066; 
+  scrollbar-arrow-color: #3300CC;
+}
+
+a:link { color: #9900CC; text-decoration: none}
+a:visited { color: #9900CC; text-decoration: none}
+a:hover { color: #006699; text-decoration: underline}
+a:active { color: #006699; background-color: #99CCFF; text-decoration: none}
+
+.align-center {
+  text-align: center;
+}
+
+.margin-auto {
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,87 @@
+A:link {
+  COLOR: #000099; TEXT-DECORATION: underline
+}
+A:visited {
+  COLOR: #3366cc; TEXT-DECORATION: underline
+}
+A:hover {
+  COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A:active {
+  COLOR: #000099
+}
+TD {
+  FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+TR {
+  FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+P {
+  FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+DIV {
+  FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+A {
+  FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.txtfields {
+  FONT-SIZE: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.codes {
+  FONT-WEIGHT: normal; FONT-SIZE: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; TEXT-TRANSFORM: capitalize; COLOR: black; FONT-FAMILY: Courier; LETTER-SPACING: 3px; TEXT-DECORATION: none
+}
+BODY {
+  SCROLLBAR-FACE-COLOR: #efefef; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #d1d1d1; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #cc3333; SCROLLBAR-DARKSHADOW-COLOR: #d1d1d1; SCROLLBAR-BASE-COLOR: #8a4b2f
+}
+.default {
+  FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.heading {
+  FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.shoptext {
+  FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.shoplink {
+  COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.forumJUMP {
+  FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #1f2543
+}
+.mini {
+  FONT-SIZE: 6pt; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.maintxt {
+  FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.mainheading {
+  FONT-WEIGHT: bold; FONT-SIZE: 30pt; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.subheading {
+  FONT-WEIGHT: bold; FONT-SIZE: 15pt; COLOR: black; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.quotation {
+  FONT-SIZE: 15pt; COLOR: black; FONT-STYLE: italic; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.title {
+  FONT-WEIGHT: bold; FONT-SIZE: 6pt; TEXT-TRANSFORM: uppercase; COLOR: white; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.title2 {
+  FONT-WEIGHT: bold; FONT-SIZE: 6pt; TEXT-TRANSFORM: uppercase; COLOR: white; FONT-FAMILY: verdana,helvetica,sans-serif
+}
+.ticker {
+  FONT-SIZE: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000033; FONT-STYLE: italic; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.articledetails {
+  FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana
+}
+.articlebody {
+  FONT-SIZE: 12px; FONT-FAMILY: Verdana
+}
+.commentList TBODY TD {
+  PADDING-RIGHT: 12px; PADDING-LEFT: 12px; FONT-WEIGHT: normal; PADDING-BOTTOM: 7px; BORDER-LEFT: #ffffff 2px solid; PADDING-TOP: 7px; TEXT-ALIGN: left
+}
+.commentList TBODY TH {
+  PADDING-RIGHT: 12px; PADDING-LEFT: 12px; FONT-WEIGHT: normal; PADDING-BOTTOM: 7px; BORDER-LEFT: #ffffff 2px solid; PADDING-TOP: 7px; TEXT-ALIGN: left
+}

@@ -1,0 +1,5 @@
+/* Tailwind SANS preflight : le reset casserait le rendu d'origine (tailles, images, tableaux).
+   Le style du site vient de /legacy/application.css (chargé dans layout.tsx, non "layered" = prioritaire). */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);

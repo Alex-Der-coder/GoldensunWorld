@@ -1,0 +1,145 @@
+---
+raw: true
+source: "https://v3.goldensun-world.com/gs1_soluce4"
+---
+
+<a id="top" name="top"></a>
+<center><a href="/gs1_soluce0">- Retour au sommaire -</a><br/><br/><img border="0" height="50" src="/legacy/img/title/solution.gif" width="200"/></center>
+<br/>
+<form action="#" name="form1">
+<div align="left">
+<p align="center">
+<select name="ListeUrl" onchange="ChangeUrl(this.form)" size="1" style="BORDER-RIGHT: #990000 1px solid; BORDER-TOP: #990000 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #990000 1px solid; COLOR: #000000; BORDER-BOTTOM: #990000 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #CCCCFF">
+<option selected="">-- Choisissez un chapitre --</option>
+<option value="#chapter12">XII] Kalay &amp; Tolbi</option>
+<option value="#chapter13">XIII] Caverne d'Altmiller &amp; le Colysée</option>
+<option value="#chapter14">XIV] Lunpa</option>
+</select>
+</p>
+</div>
+</form>
+<br/>
+<a id="chapter12" name="chapter12"></a>
+<table align="center" border="2" bordercolor="#000000" cellpadding="2" cellspacing="0" width="500">
+<tbody><tr>
+<td align="center" colspan="2">
+<b>XII] Kalay &amp; Tolbi</b>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<br/>
+</td>
+<td valign="top">
+<font face="Verdana" size="1">
+<br/>
+    Rendez-vous à <b>Kalay</b> à partir de <b>Vault</b> : allez au Sud, traversez deux ponts et continuez jusqu'à Kalay, faites le nécessaire, puis retournez sur la carte et allez à l'Ouest, derrière une montagne, il y a les quais de Kalay, allez-y et achetez un billet dans la maison à la dame et fouillez tout le quai, montez maintenant dans le bateau, fouillez tout et parlez à tout le monde, une fois cela fait, la discution terminée comme quoi l'ancre à disparue, allez tout en haut du bateau sur le mât. Fouillez le pour y trouver l'ancre enchantée, allez la donner au capitaine en bas du bateau puis allez tout en haut pour descendre dans les calles, le bateau part.
+<br/><br/>
+Durant le voyage il y a plusieurs monstres faciles à battre sauf le dernier, entre chaque combat rescucitez vos héros si besoin et regagnez de la psynergie assez souvent, choisissez qui vous voulez en rameurs et vous arrivez à un nouveau port.
+<br/><br/>
+<i>Note :</i> Grâce à une manip' en choisissent les rameurs les plus faibles, le bateau peut être déséquilibré et se diriger vers une île secrète. Si vous ne l'avez pas fait, ne vous inquiétez pas, vous pourrez y retourner plus tard.
+<br/><br/>
+Descendez du bateau, fouillez les quais, et allez devant l'enclos avec des caisses, déplacez les de façons à ce qu'il y ait un petit trou facile à sauter entre chaque caisse et la terre, montez les escaliers, sautez sur les caisses pour rejoindre l'autre côté et prendre un coffre, faites demi-tour pour aller sur la carte du monde.
+<br/><br/>
+Allez à Tolbi, juste au Nord, entrez doucement, une fois dedans, ne bougez plus, longez la falaise de droite sans être entré par la porte, vous êtes encore à l'extérieur et une fois devant la plante, inversez les <b>Djinn Silex</b> et <b>Forge</b> pour avoir la psynergie <b>Bourgeon</b>, faites pousser cette plante et montez-la.
+<br/><br/>
+Glacez l'eau avec <b>Frimas</b> et revenez sur vos pas (re-échangez vos <b>Djinn</b>) sans sortir du village, montez les escaliers et allez en haut à droite et montez tous les escaliers, sautez sur le pilier fait de glace et vous arrivez devant <b>Braise</b>, le <b>Djinn de Mars</b>, capturez-le et fouillez tout le village, prenez l'escalier du bas de la ville, à gauche et vous êtes dans un cercle de pierres, utilisez <b>Vision</b>, prenez le coffre et continuez à tout fouiller, allez à la fontaine au centre de la ville et jetez vos portes-bonheur pour de nouveaux objets et quelques pièces.
+<br/><br/>
+Allez dans la maison de droite une fois le jeu fini et jouez aux dés et sortez par la droite, montez les escaliers et allez dans la maison au dessus de l'auberge, jouez au jackpot, alignez une rangée de mêmes figures pour gagner, la lune comptant pour toutes les figures, une fois les tickets épuisés, allez près de la fontaine sans y entrer et allez à gauche pour monter les escaliers, continuez après la discution avec les gardes, entrez dans le palais et fouillez tout, reposez vous dans les lits de la dame gratuitement et sortez du palais puis de Tolbi une fois fini.
+
+
+<br/><br/>
+</font>
+<div align="right"><a href="#top"><img alt="Retour en haut" border="0" height="15" src="/legacy/img/arrow.gif" width="21"/></a></div>
+</td>
+</tr>
+</tbody></table>
+<br/><br/>
+<a id="chapter13" name="chapter13"></a>
+<table align="center" border="2" bordercolor="#000000" cellpadding="2" cellspacing="0" width="500">
+<tbody><tr>
+<td align="center" colspan="2">
+<b>XIII] Caverne d'Altmiller &amp; le Colysée</b>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<br/>
+</td>
+<td valign="top">
+<font face="Verdana" size="1">
+<br/>
+Suivez le chemin du Sud Ouest puis traversez le pont, quittez le chemin et prenez le Nord Ouest, traversez le deuxième pont et promenez-vous dans les forêts pour trouver <b>Ecume</b>, le <b>Djinn de Mercure</b>, capturez-le et retounez traverser le pont pour aller ensuite à l'Est sans dévier et Entrez dans Kalay non loin d'une plage, il y a <b>Humus</b>, le <b>Djinn de Vénus</b> et repartez pour l'Ouest, traversez un pont puis allez dans la caverne d'<b>Altmiller</b>.
+<br/><br/>
+Avancez et descendez une première fois, à droite un coffre monstre et à gauche, un homme par terre et acceptez de l'aider pendant la discution, avancez pour descendre à nouveau et ouvrez le coffre en haut, revenez pour prendre à droite afin de descendre une nouvelle fois.
+<br/><br/>
+Descendez l'escalier et avancer pour monter un escalier, poussez le pilier vertical vers la droite et la colone horizontale du bas vers le haut, gelez la flaque avec <b>Frimas</b> et poussez le pilier de droite vers la gauche, allez en haut à gauche du pilier horizontal du haut et poussez le vers le bas. Poussez le pilier vertical vers la droite, allez en bas, contournez les rochers pour pousser le pilier vertical vers la gauche et montez. Poussez le pilier horizontal du haut vers le bas, avancez pour combattre <b>Bise</b>, le <b>Djinn de Jupiter</b>.
+<br/><br/>
+Revenez sur vos pas pour faire tomber le pilier marron avec <b>Déplacer</b> et avancez pour descendre. Avancez, prenez le passage vers la gauche et avancez pour prendre le coffre, revenez et prenez le passage vers le bas, allez tout en bas afin de longer le mur qui va à gauche et contournez le mur de rochers, afin de prendre le passage en haut à droite de ce mur. Avancez et prenez le passage et sauvez la partie.
+<br/><br/>
+Descendez les escaliers sans pousser le pilier du bout, sinon recommencez, prenez l'escalier du bas à gauche. Faites le tour de la salle en suivant le chemin, et prenez le toboggan du bout pour descendre. Prenez ensuite le passage de gauche. Regardez le rocher de gauche puis de droite et maintenant, prenez le rocher qui correspond à la boule du haut, exemple la boule du haut est jaune, prenez alors le rocher jaune et ainsi de suite jusqu'à la fin, voyez la couleur des rochers avec <b>Vision</b>. Un passage s'ouvre alors entrez-y et prenez le coffre, fuyez avec la psynergie et allez revoir l'homme invisible pour lui donner la potion, utilisez à nouveau <b>fuir</b> et sortez de la caverne, allez à <b>Tolbi</b>.
+<br/><br/>
+Allez au palais et entrez dans la porte de gauche pour vous reposer, sauvegardez et allez près de la fontaine pour prendre le passage du haut de la ville et montez l'escalier de droite, il y a une discution et faites les courses du <b>Colysée</b>. Pas trop grave si vous perdez, car le cadeau est un objet qui attire les monstres, donc plus de combats alléatoires.
+<br/><br/>
+A la première course, on vous demande de placer vos amis qui vous encourragent placez les comme vous voulez et regardez les démonstrations, vos amis peuvent enlever les obstacles dans les enclos. Il y a 3 courses où vous devez faire de même. Gagnez les deux premières et la troisième à de l'importance que pour le lot, vous vous endormez et réveillez dans un lit. Il y a une conversation, allez dans la chambre de Balbi, il part se reposer et suivez le pour prendre la balle d'ombre sur son chevet.
+<br/><br/>
+Maintenant quittez le village et suivez le chemin du Sud et à l'Est, vous arrivez à la caverne de Gondowan. Avancez et allez en haut à gauche dans la première salle et soulevez le rocher devant vous. Avancez dans une nouvelle salle, sautez sur les rondins et prenez le coffre, continuez à droite et allez en haut à gauche pour ouvrir un nouveau coffre, prenez la sortie en bas à droite et avancez, montez les escaliers et déplacez le pilier vers la gauche, avancez et déplacez l'autre pilier vers la droite pour le faire tomber dans le trou, prenez la sortie en bas et vous êtes sur la carte et allez à <b>Vault</b> en vous aidant du bouton R pour voir la carte.
+<br/><br/>
+</font>
+<div align="right"><a href="#top"><img alt="Retour en haut" border="0" height="15" src="/legacy/img/arrow.gif" width="21"/></a></div>
+</td>
+</tr>
+</tbody></table>
+<br/><br/>
+<a id="chapter14" name="chapter14"></a>
+<table align="center" border="2" bordercolor="#000000" cellpadding="2" cellspacing="0" width="500">
+<tbody><tr>
+<td align="center" colspan="2">
+<b>XIV] Lunpa</b>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<br/>
+</td>
+<td valign="top">
+<font face="Verdana" size="1">
+<br/>
+Une fois devant <b>Vault</b>, allez au Nord pour voir le village de <b>Lunpa</b>, ses portes sont fermées mais n'ayez crainte, sortez du village et entrez dans la caverne, là aussi les portes sont fermées, utilisez <b>Frimas</b> sur la flaque sous la porte et elle s'ouvre, entrez-y et sortez de l'autre côté dans Lunpa, fouillez tout comme d'habitude, et utilisez <b>Vision</b> sur la palissade du haut, glacez l'eau et montez l'échelle, sautez de pilier en pilier pour faire le tour du village.
+<br/><br/>
+Utilisez à nouveau <b>Vision</b> quand vous êtes coincé et entrez dans le passage secret, ouvrez les coffres et sortez puis tombez avec le toboggan, utilisez <b>Vision</b>, dans le cercle du centre pour prendre la pierre psy. Allez dans la porte du haut du village pour passer dans une nouvelle partie.
+<br/><br/>
+Equipez un de vos personnage de la <b>balle d'ombre</b> et faites un raccourci avec L ou R pour la psynergie <b>Camouflage</b>, importante dans cette partie du jeu. Allez à gauche, collez-vous contre le mur et camouflez-vous pour échapper à la vigilance des gardes. Prenez la porte et allez dans la salle après celle de l'entrée.
+<br/><br/>
+Allez à droite dans l'ombre, sauvez et camouflez-vous (notez que <b>Camouflage</b> ne marche que dans l'ombre). Allez dans une autre salle en longeant le mur de droite et sauvez (faites le après chaque combat, passage dans une nouvelle salle et les choses dures à faire).
+<br/><br/>
+Camouflez-vous et allez en haut pour prendre le passage et fouillez cette salle, sortez-en et allez à gauche, utilisez Camouflage et prenez le passage du bas à gauche. Camouflez-vous à nouveau (faites de même pour toutes les salles) et attendez que le garde soit tout à gauche pour foncer dans le couloir et aller en bas, puis prenez le passage en bas à gauche.
+<br/><br/>
+Dans la nouvelle salle, prenez l'escalier. Avancez dans le passage vers le haut. Un homme se déplace de droite à gauche, donc foncez en longeant le mur de droite quand le garde est tout à gauche, et stoppez vous dans le creux du mur en vous collant contre celui ci et faites de même avec l'autre homme pour prendre le couloir du haut. Prenez le passage du haut à gauche et allez dans la salle suivante.
+<br/><br/>
+Prenez le passage du haut à droite afin d'affronter 3 gardes. Allez dans la salle suivante pour affronter à nouveau un autre garde. Prenez le passage du bas à droite, camouflez-vous et allez en haut à gauche de cette salle. Allez en bas pour prendre le passage en faisant attention au garde.
+<br/><br/>
+Dans la salle suivante, collez-vous contre la grille après avoir fait un raccourci avec L ou R de <b>Attraper</b> pour prendre la <b>clef</b>, ouvrez la grille avec cette clef et affrontez un nouveau garde. Prenez ensuite l'escalier à droite.
+<br/><br/>
+Ouvrez la nouvelle grille du bas pour prendre un passage en bas à gauche. Camouflez-vous et prenez le passage du haut à droite. Camouflez-vous de nouveau, allez en haut et enfin à gauche pour prendre le passage en bas à gauche. Ouvrez la grille en haut à gauche et ouvrez les <b>coffres</b>.
+<br/><br/>
+Fuyez avec la psynergie pour allez à l'entrée et allez en haut, prenez le passage en bas à droite et dans la nouvelle salle prenez l'escalier, utilisez <b>Tourbillon</b> sur les feuilles de la salle suivante et <b>Vision</b> pour activer un interrupteur caché.
+<br/><br/>
+Passez la porte alors ouverte et sautez au dessus de l'eau pour monter les escaliers à droite. Utilisez de nouveau <b>Tourbillon</b> pour passer dans le passage recouvert par les feuilles. Allez en haut pour fouiller la cellule et allez dans le couloir en bas à gauche pour sortir de ce passage. Ouvrez la grille du haut à gauche et poussez la caisse en bas. Marchez dessus et sautez à gauche pour ouvrir la grille, utilisez <b>Tourbillon</b> sur les feuilles et <b>Vision</b>, actionnez l'interrupteur et avancez dans le passage ouvert.
+<br/><br/>
+Combattez le <b>boss</b> après la discussion. Une fois tué, il y a une autre discussion et à sa fin sortez de la forteresse et montez les escaliers de gauche pour entrer dans la caverne après s'être reposé et soigné. Continuez et rencontrez l'<b>ami de Hammet</b>. Dites oui, non, oui, oui et retournez au village.
+<br/><br/>
+Entrez de nouveau dans la forteresse, avancez dans la salle suivante et prenez le passage en bas à droite. Ouvrez la grille et prenez le passage du haut à droite, affrontez le garde et ouvrez la grille du haut, prenez le passage du haut, allez en haut à droite après avoir continué. Combattez le garde et entrez dans le passage qu'il surveillait.
+<br/><br/>
+Parlez à l'homme au lit et prenez le <b>Djinn</b> qu'il vous offre. Fuyez et quittez Lunpa. Retournez à <b>Kalay</b> à l'aide de la carte. Allez dans le palais tout en haut et allez dans la salle devant vous. Discutez et allez dans le couloir à droite des fontaines et prenez la porte. Descendez l'escalier à gauche et entrez dans le <b>tunnel de Kalay</b>.
+
+
+<br/><br/>
+</font>
+<div align="right"><a href="#top"><img alt="Retour en haut" border="0" height="15" src="/legacy/img/arrow.gif" width="21"/></a></div>
+</td>
+</tr>
+</tbody></table>
+<br/><br/>
+<center><a href="/gs1_soluce0">- Retour au sommaire -</a></center>
+<br/>
