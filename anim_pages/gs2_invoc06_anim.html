@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- Date de création: 07/07/2002 -->
+<head>
+<title>GS2 &raquo; Invocation</title>
+<!-- DEBUT DU SCRIPT -->
+<SCRIPT LANGUAGE="JavaScript">
+
+function afficheVignette(cheminVignette,cheminMaxi)
+  {
+  document.write('<A HREF="javascript:afficheMaxi(\''+cheminMaxi+'\')"><IMG SRC="'+cheminVignette+'" HSPACE=0 VSPACE=0 BORDER=0 ALT="cliquez ici pour ouvrir le screen"></A>');
+  }
+function afficheMaxi(chemin)
+  {
+  i1 = new Image;
+  i1.src = chemin;
+  html = '<HTML><HEAD><TITLE>Carte</TITLE></HEAD><BODY LEFTMARGIN=0 MARGINWIDTH=0 TOPMARGIN=0 MARGINHEIGHT=0><CENTER><IMG SRC="'+chemin+'" BORDER=0 NAME=imageTest onLoad="window.resizeTo(document.imageTest.width+14,document.imageTest.height+32)"></CENTER></BODY></HTML>';
+  popupImage = window.open('','_blank','toolbar=0,location=0,directories=0,menuBar=0,scrollbars=0,resizable=0');
+  popupImage.document.open();
+  popupImage.document.write(html);
+  popupImage.document.close()
+  };
+</SCRIPT>
+<!-- FIN DU SCRIPT -->
+</head>
+
+<body topmargin="5" leftmargin="0" bottommargin="5" rightmargin="0">
+
+<table cellpadding="2" cellspacing=0 border=0 width="425" bgcolor="#9900FF">
+  <tr>
+    <td colspan="2" background="top.gif" style="padding: 0">
+    <img src="/img/icone/blank.gif" width="19" height="1" border="0"><img src="/img/icone/invocations/ico23.gif" width="15" height="15" border="0" alt="Eclipse"><img src="/img/icone/blank.gif" width="372" height="1" border="0"><a href="javascript:history.go(0)"><img src="/img/icone/refresh.gif" width="14" height="16" border="0"></a></td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="58%" bgcolor="black" style="BORDER-BOTTOM: #CCCCFF 1px solid">
+<a href="/invocations/gs2_invoc06"><img width="240" height="160" border="0" alt="Clique pour revenir au mode normal" src="/assets/invocations/animations/gs2_invoc2eau3vent-896258e0f515325c5e2234d5e99c9938b3d74a494e6f98892aea540681a9e5dc.gif" /></a>
+</td>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Nom :</b> Eclipse <i>(Eclipse)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Djinn :</b> <img src="/img/icone/psy_eau.gif" width="8" height="8" border="0"><img src="/img/icone/psy_eau.gif" width="8" height="8" border="0">+<img src="/img/icone/psy_vent.gif" width="8" height="8" border="0"><img src="/img/icone/psy_vent.gif" width="8" height="8" border="0"><img src="/img/icone/psy_vent.gif" width="8" height="8" border="0"> <i>(Type Vent)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Effet :</b> peut baisser l'Att.</font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Plan :</b> <SCRIPT LANGUAGE="JavaScript">
+afficheVignette("clickez.gif","map06.gif");
+</SCRIPT></font></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2">
+    <b>Localisation :</b> L'une des meilleures invocations du jeu se trouve à <b>Lémuria</b> dans la <b>fontaine</b> (un peu comme celle de Tolbi souvenez vous).
+<br>Moi je l’ai eu sans rien toucher, j’ignore s'il faut que ce soit le cas !!!!<br>
+C’est l’invocation d’un super dragon de la mort qui tue !!
+</font>
+    </td>
+  </tr>
+</table>
+<img src="bottom.gif" width="425" height="20" border="0">
+
+</body>
+</html>

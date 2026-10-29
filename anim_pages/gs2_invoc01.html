@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- Date de création: 07/07/2002 -->
+<head>
+<title>GS2 &raquo; Invocation</title>
+<!-- DEBUT DU SCRIPT -->
+<SCRIPT LANGUAGE="JavaScript">
+
+function afficheVignette(cheminVignette,cheminMaxi)
+  {
+  document.write('<A HREF="javascript:afficheMaxi(\''+cheminMaxi+'\')"><IMG SRC="'+cheminVignette+'" HSPACE=0 VSPACE=0 BORDER=0 ALT="cliquez ici pour ouvrir le screen"></A>');
+  }
+function afficheMaxi(chemin)
+  {
+  i1 = new Image;
+  i1.src = chemin;
+  html = '<HTML><HEAD><TITLE>Carte</TITLE></HEAD><BODY LEFTMARGIN=0 MARGINWIDTH=0 TOPMARGIN=0 MARGINHEIGHT=0><CENTER><IMG SRC="'+chemin+'" BORDER=0 NAME=imageTest onLoad="window.resizeTo(document.imageTest.width+14,document.imageTest.height+32)"></CENTER></BODY></HTML>';
+  popupImage = window.open('','_blank','toolbar=0,location=0,directories=0,menuBar=0,scrollbars=0,resizable=0');
+  popupImage.document.open();
+  popupImage.document.write(html);
+  popupImage.document.close()
+  };
+</SCRIPT>
+<!-- FIN DU SCRIPT -->
+</head>
+
+<body topmargin="5" leftmargin="0" bottommargin="5" rightmargin="0">
+
+<table cellpadding="2" cellspacing=0 border=0 width="425" bgcolor="#9900FF">
+  <tr>
+    <td colspan="2" background="top.gif" style="padding: 0">
+    <img src="/img/icone/blank.gif" width="19" height="1" border="0"><img src="/img/icone/invocations/ico17.gif" width="15" height="15" border="0" alt="Zagan"><img src="/img/icone/blank.gif" width="372" height="1" border="0"><a href="javascript:history.go(0)"><img src="/img/icone/refresh.gif" width="14" height="16" border="0"></a></td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="58%" bgcolor="black" style="BORDER-BOTTOM: #CCCCFF 1px solid">
+<a href="/invocations/gs2_invoc01?mode=anim"><img width="240" height="160" border="0" alt="Clique pour voir l&#39;animation" src="/assets/invocations/gs2_invoc1terre1feu_pic-e098a0e5c3f86798c511003dd863927cb7655d1f962755a3b4f45ba0a1e4721f.gif" /></a>
+</td>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Nom :</b> Zagan <i>(Zagan)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Djinn :</b> <img src="/img/icone/psy_terre.gif" width="8" height="8" border="0">+<img src="/img/icone/psy_feu.gif" width="8" height="8" border="0"> <i>(type Terre)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Effet :</b> peut baisser la Déf.</font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Plan :</b> <SCRIPT LANGUAGE="JavaScript">
+afficheVignette("clickez.gif","map01.gif");
+</SCRIPT></font></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2">
+    <b>Localisation :</b>
+    La première combo Stèle se trouve à la fin du <b>plateau de Dehkan</b>,
+    sur votre droite vous verrez une grotte, entrez-y !<br>
+Ici vous aurez en face de vous un <b>pilier</b> que vous devez <b>déplacer</b> au milieu et utilisez votre psynergie <b>relier</b> afin de pouvoir grimpez, en haut sautez sur le bout de bois et à vous la Stèle combo !! :-)
+<br>
+Elle nécessite un djinn de terre et un de feu !
+</font>
+    </td>
+  </tr>
+</table>
+<img src="bottom.gif" width="425" height="20" border="0">
+
+</body>
+</html>

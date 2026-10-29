@@ -96,7 +96,7 @@ Les armures sont ici séparées en plusieurs catégories influant sur les person
     <td>Île aux pirates</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/manteau.gif" width=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/manteau.gif" width=15 height=15 border=0></td>
     <td>Manteau</td>
     <td>Déf +16<br><img src="/legacy/img/icone/psy_eau.gif"> résist. +20</td>
     <td>résiste à l'eau</td>
@@ -142,14 +142,14 @@ Les armures sont ici séparées en plusieurs catégories influant sur les person
     <td>Lalivero</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/robedeloracle.gif" width=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/robedeloracle.gif" width=15 height=15 border=0></td>
     <td>Rode de l'Oracle</td>
     <td>Défense +43,Récup. PV +10<br><img src="/legacy/img/icone/psy_eau.gif"> résist. +40</td>
     <td>booste les PV</td>
     <td>phare de venus</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/robeaplumes.gif" widfth=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/robeaplumes.gif" widfth=15 height=15 border=0></td>
     <td>Robe à plumes</td>
     <td>Défense +45, Agilité +30<br><img src="/legacy/img/icone/psy_air.gif"> puiss. +20 résist. +30</td>
     <td>résiste à l'air</td>
@@ -220,14 +220,14 @@ Les armures sont ici séparées en plusieurs catégories influant sur les person
     <td>Tunnel de Calay</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/gantscoultes.gif" width=15 height=15 border=0>--></td>
+    <td><img src="legacy/img/icone/reliques/gantscoultes.gif" width=15 height=15 border=0></td>
     <td>Gants cloutés</td>
     <td>Att +8, Déf +26</td>
     <td>boostent l'attaque</td>
     <td>fontaine de tolbi</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/gantsvertueux.gif" width=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/gantsvertueux.gif" width=15 height=15 border=0></td>
     <td>Gants vertueux</td>
     <td>Défense +36, peut se briser en combat</td>
     <td>résistent aux éléments</td>
@@ -259,7 +259,7 @@ Les armures sont ici séparées en plusieurs catégories influant sur les person
     <td>Désert de Suhalla</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/braceletgardien.gif" width=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/braceletgardien.gif" width=15 height=15 border=0></td>
     <td>Bracelet gardien</td>
     <td>Défense +27, peut se briser en combat</td>
     <td>booste la défense</td>
@@ -323,7 +323,7 @@ Les armures sont ici séparées en plusieurs catégories influant sur les person
     <td>Colisée</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/cagouledeninja.gif" witdh=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/cagouledeninja.gif" witdh=15 height=15 border=0></td>
     <td>Cagoule de ninja</td>
     <td>Déf +28,Agi +20</td>
     <td>booste l'agilité</td>
@@ -348,14 +348,14 @@ Les armures sont ici séparées en plusieurs catégories influant sur les person
     <td>Lunpa</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/tiaresoleil.gif" width=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/tiaresoleil.gif" width=15 height=15 border=0></td>
     <td>Tiare soleil</td>
     <td>Défense +27, Peut se briser en combat</td>
     <td>empêche d'être dupé</td>
     <td>fontaine de tolbi</td>
   </tr>
   <tr>
-    <td><!--<img src="/img/icone/reliques/mitre.gif" width=15 height=15 border=0>--></td>
+    <td><img src="/legacy/img/icone/reliques/mitre.gif" width=15 height=15 border=0></td>
     <td>Mitre</td>
     <td>Déf +30, peut se briser en combat</td>
     <td>évite d'être KO</td>

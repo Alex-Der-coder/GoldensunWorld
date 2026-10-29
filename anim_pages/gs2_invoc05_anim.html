@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- Date de création: 07/07/2002 -->
+<head>
+<title>GS2 &raquo; Invocation</title>
+<!-- DEBUT DU SCRIPT -->
+<SCRIPT LANGUAGE="JavaScript">
+
+function afficheVignette(cheminVignette,cheminMaxi)
+  {
+  document.write('<A HREF="javascript:afficheMaxi(\''+cheminMaxi+'\')"><IMG SRC="'+cheminVignette+'" HSPACE=0 VSPACE=0 BORDER=0 ALT="cliquez ici pour ouvrir le screen"></A>');
+  }
+function afficheMaxi(chemin)
+  {
+  i1 = new Image;
+  i1.src = chemin;
+  html = '<HTML><HEAD><TITLE>Carte</TITLE></HEAD><BODY LEFTMARGIN=0 MARGINWIDTH=0 TOPMARGIN=0 MARGINHEIGHT=0><CENTER><IMG SRC="'+chemin+'" BORDER=0 NAME=imageTest onLoad="window.resizeTo(document.imageTest.width+14,document.imageTest.height+32)"></CENTER></BODY></HTML>';
+  popupImage = window.open('','_blank','toolbar=0,location=0,directories=0,menuBar=0,scrollbars=0,resizable=0');
+  popupImage.document.open();
+  popupImage.document.write(html);
+  popupImage.document.close()
+  };
+</SCRIPT>
+<!-- FIN DU SCRIPT -->
+</head>
+
+<body topmargin="5" leftmargin="0" bottommargin="5" rightmargin="0">
+
+<table cellpadding="2" cellspacing=0 border=0 width="425" bgcolor="#9900FF">
+  <tr>
+    <td colspan="2" background="top.gif" style="padding: 0">
+    <img src="/img/icone/blank.gif" width="19" height="1" border="0"><img src="/img/icone/invocations/ico21.gif" width="15" height="15" border="0" alt="Ulysse"><img src="/img/icone/blank.gif" width="372" height="1" border="0"><a href="javascript:history.go(0)"><img src="/img/icone/refresh.gif" width="14" height="16" border="0"></a></td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="58%" bgcolor="black" style="BORDER-BOTTOM: #CCCCFF 1px solid">
+<a href="/invocations/gs2_invoc05"><img width="240" height="160" border="0" alt="Clique pour revenir au mode normal" src="/assets/invocations/animations/gs2_invoc2eau2feu-24e64276a0508e04b24552e90efd1d987c8c5c7c17ad7c52cc9f853dd8747dd2.gif" /></a>
+</td>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Nom :</b> Ulysse <i>(Ulysses)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Djinn :</b> <img src="/img/icone/psy_eau.gif" width="8" height="8" border="0"><img src="/img/icone/psy_eau.gif" width="8" height="8" border="0">+<img src="/img/icone/psy_feu.gif" width="8" height="8" border="0"><img src="/img/icone/psy_feu.gif" width="8" height="8" border="0"> <i>(type Feu)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Effet :</b> peut bloquer 1 tour</font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Plan :</b> <SCRIPT LANGUAGE="JavaScript">
+afficheVignette("clickez.gif","map05.gif");
+</SCRIPT></font></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2">
+    <b>Localisation :</b> Une fois que vous avez appris Sable au Mont Gaia et Evaporer à Rocheau, revenez à <b>Izumo</b>. Allez sur le petit îlot dans la ville au Nord avec des piliers. Rétablissez un cercle parfait en alignant le pilier de gauche. Utilisez <b>Vision</b> au milieu pour révéler une <b>échelle</b>. Dans la pièce où vous arrivez, utilisez <b>Sable</b> pour passer derrière les piliers et gelez la flaque d'eau avec <b>Frimas</b>. Vous pouvez ainsi atteindre l'autre côté et atteindre la Stèle en continuant dans la grotte. À vous la nouvelle combo Stèle !
+</font>
+    </td>
+  </tr>
+</table>
+<img src="bottom.gif" width="425" height="20" border="0">
+
+</body>
+</html>

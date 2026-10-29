@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- Date de création: 07/07/2002 -->
+<head>
+<title>GS2 &raquo; Invocation</title>
+<!-- DEBUT DU SCRIPT -->
+<SCRIPT LANGUAGE="JavaScript">
+
+function afficheVignette(cheminVignette,cheminMaxi)
+  {
+  document.write('<A HREF="javascript:afficheMaxi(\''+cheminMaxi+'\')"><IMG SRC="'+cheminVignette+'" HSPACE=0 VSPACE=0 BORDER=0 ALT="cliquez ici pour ouvrir le screen"></A>');
+  }
+function afficheMaxi(chemin)
+  {
+  i1 = new Image;
+  i1.src = chemin;
+  html = '<HTML><HEAD><TITLE>Carte</TITLE></HEAD><BODY LEFTMARGIN=0 MARGINWIDTH=0 TOPMARGIN=0 MARGINHEIGHT=0><CENTER><IMG SRC="'+chemin+'" BORDER=0 NAME=imageTest onLoad="window.resizeTo(document.imageTest.width+14,document.imageTest.height+32)"></CENTER></BODY></HTML>';
+  popupImage = window.open('','_blank','toolbar=0,location=0,directories=0,menuBar=0,scrollbars=0,resizable=0');
+  popupImage.document.open();
+  popupImage.document.write(html);
+  popupImage.document.close()
+  };
+</SCRIPT>
+<!-- FIN DU SCRIPT -->
+</head>
+
+<body topmargin="5" leftmargin="0" bottommargin="5" rightmargin="0">
+
+<table cellpadding="2" cellspacing=0 border=0 width="425" bgcolor="#9900FF">
+  <tr>
+    <td colspan="2" background="top.gif" style="padding: 0">
+    <img src="/img/icone/blank.gif" width="19" height="1" border="0"><img src="/img/icone/invocations/ico22.gif" width="15" height="15" border="0" alt="Haurès"><img src="/img/icone/blank.gif" width="372" height="1" border="0"><a href="javascript:history.go(0)"><img src="/img/icone/refresh.gif" width="14" height="16" border="0"></a></td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="58%" bgcolor="black" style="BORDER-BOTTOM: #CCCCFF 1px solid"><a href="/invocations/gs2_invoc07?mode=anim"><img width="240" height="160" border="0" alt="Clique pour voir l&#39;animation" src="/assets/invocations/gs2_invoc3terre2feu_pic-f2a2e6b1a9c563b062abfc953cc72f018fbaf948f5c2e1a1636f26b1e2d853d2.gif" /></a>
+</td>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Nom :</b> Haurès <i>(Haures)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Djinn :</b> <img src="/img/icone/psy_terre.gif" width="8" height="8" border="0"><img src="/img/icone/psy_terre.gif" width="8" height="8" border="0"><img src="/img/icone/psy_terre.gif" width="8" height="8" border="0">+<img src="/img/icone/psy_feu.gif" width="8" height="8" border="0"><img src="/img/icone/psy_feu.gif" width="8" height="8" border="0"> <i>(Type Terre)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Effet :</b> peut empoisonner</font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Plan :</b> <SCRIPT LANGUAGE="JavaScript">
+afficheVignette("clickez.gif","map07.gif");
+</SCRIPT></font></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2">
+    <b>Localisation :</b> Il y en a une autre super bien, au nord du village des mineurs (<b>Loho</b>) là où il y a le canon.<br>
+Vous avez besoin du bateau Lémurian et de Vlad et ses amis pour y aller car il faut la psynergie <b>porter</b> pour pouvoir déplacer les blocs au milieu l’un sur l’autre. De cette façon vous pourrez atteindre une nouvelle Stèle !
+
+</font>
+    </td>
+  </tr>
+</table>
+<img src="bottom.gif" width="425" height="20" border="0">
+
+</body>
+</html>

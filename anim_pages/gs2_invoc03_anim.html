@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- Date de création: 07/07/2002 -->
+<head>
+<title>GS2 &raquo; Invocation</title>
+<!-- DEBUT DU SCRIPT -->
+<SCRIPT LANGUAGE="JavaScript">
+
+function afficheVignette(cheminVignette,cheminMaxi)
+  {
+  document.write('<A HREF="javascript:afficheMaxi(\''+cheminMaxi+'\')"><IMG SRC="'+cheminVignette+'" HSPACE=0 VSPACE=0 BORDER=0 ALT="cliquez ici pour ouvrir le screen"></A>');
+  }
+function afficheMaxi(chemin)
+  {
+  i1 = new Image;
+  i1.src = chemin;
+  html = '<HTML><HEAD><TITLE>Carte</TITLE></HEAD><BODY LEFTMARGIN=0 MARGINWIDTH=0 TOPMARGIN=0 MARGINHEIGHT=0><CENTER><IMG SRC="'+chemin+'" BORDER=0 NAME=imageTest onLoad="window.resizeTo(document.imageTest.width+14,document.imageTest.height+32)"></CENTER></BODY></HTML>';
+  popupImage = window.open('','_blank','toolbar=0,location=0,directories=0,menuBar=0,scrollbars=0,resizable=0');
+  popupImage.document.open();
+  popupImage.document.write(html);
+  popupImage.document.close()
+  };
+</SCRIPT>
+<!-- FIN DU SCRIPT -->
+</head>
+
+<body topmargin="5" leftmargin="0" bottommargin="5" rightmargin="0">
+
+<table cellpadding="2" cellspacing=0 border=0 width="425" bgcolor="#9900FF">
+  <tr>
+    <td colspan="2" background="top.gif" style="padding: 0">
+    <img src="/img/icone/blank.gif" width="19" height="1" border="0"><img src="/img/icone/invocations/ico19.gif" width="15" height="15" border="0" alt="Flore"><img src="/img/icone/blank.gif" width="372" height="1" border="0"><a href="javascript:history.go(0)"><img src="/img/icone/refresh.gif" width="14" height="16" border="0"></a></td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="58%" bgcolor="black" style="BORDER-BOTTOM: #CCCCFF 1px solid">
+<a href="/invocations/gs2_invoc03"><img width="240" height="160" border="0" alt="Clique pour revenir au mode normal" src="/assets/invocations/animations/gs2_invoc1terre2vent-3c616e163218ce843b0fb05fc5220d3aba69469ae1ad90b8c48a3e6a1ee13ce0.gif" /></a>
+</td>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Nom :</b> Flore <i>(Flora)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Djinn :</b> <img src="/img/icone/psy_terre.gif" width="8" height="8" border="0">+<img src="/img/icone/psy_vent.gif" width="8" height="8" border="0"><img src="/img/icone/psy_vent.gif" width="8" height="8" border="0"> <i>(Type Air)</i></font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Effet :</b> peut endormir</font></td>
+  </tr>
+  <tr>
+    <td style="BORDER-BOTTOM: #CCCCFF 1px solid" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2"><b>Plan :</b> <SCRIPT LANGUAGE="JavaScript">
+afficheVignette("clickez.gif","map03.gif");
+</SCRIPT></font></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="BORDER-RIGHT: #9900FF 1px solid"><font color="#ffffff" face="Verdana" size="2">
+    <b>Localisation :</b> Cette combo Stèle se trouve à l’intérieur de <b>Rochair</b>, vous verrez à un moment de votre épopée un <b>tronc</b> qui ne sert à rien au 3e étage. <b>Poussez-le</b> jusqu'à ce qu'il n'y ait plus de mur au-dessus.<br>
+Allez au nord, <b>descendez l'échelle</b> que vous rencontrerez et <b>remontez sur l'autre échelle</b>.<br>
+Passez devant la statue et laissez-vous emporter par son souffle. Placez-vous en haut de la tornade de pierre et utilisez la psynergie <b>tourbillon</b> sur celle-ci.
+Grâce à la puissance de celle-ci, le tronc d’arbre va traverser le ravin pour arriver <b>plus bas</b> l'endroit où se trouve la <b>Stèle</b> !!
+Allez à l’endroit où le tronc a été déplacé, poussez-le, sautez par-dessus et à vous la Stèle combo !!!
+</font>
+    </td>
+  </tr>
+</table>
+<img src="bottom.gif" width="425" height="20" border="0">
+
+</body>
+</html>
